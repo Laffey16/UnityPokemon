@@ -1,0 +1,4147 @@
+fileFormatVersion: 2
+guid: 94344049db899e04b84bb2ca66eb1e4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4995926480002678469
+    second: DS DSi - Pokemon Platinum - Dawn_0
+  - first:
+      213: -7488302813805745000
+    second: DS DSi - Pokemon Platinum - Dawn_1
+  - first:
+      213: -3469517166836412453
+    second: DS DSi - Pokemon Platinum - Dawn_2
+  - first:
+      213: -9079477141313622660
+    second: DS DSi - Pokemon Platinum - Dawn_3
+  - first:
+      213: 7532244943738165349
+    second: DS DSi - Pokemon Platinum - Dawn_4
+  - first:
+      213: 3314573209316364829
+    second: DS DSi - Pokemon Platinum - Dawn_5
+  - first:
+      213: -8458083421492441501
+    second: DS DSi - Pokemon Platinum - Dawn_6
+  - first:
+      213: 1431755081935627914
+    second: DS DSi - Pokemon Platinum - Dawn_7
+  - first:
+      213: 1375282561720797298
+    second: DS DSi - Pokemon Platinum - Dawn_8
+  - first:
+      213: 2461873909732520680
+    second: DS DSi - Pokemon Platinum - Dawn_9
+  - first:
+      213: 1636021728880985913
+    second: DS DSi - Pokemon Platinum - Dawn_10
+  - first:
+      213: -8296102289355736986
+    second: DS DSi - Pokemon Platinum - Dawn_11
+  - first:
+      213: 8619847375217571624
+    second: DS DSi - Pokemon Platinum - Dawn_12
+  - first:
+      213: -5451865396510012217
+    second: DS DSi - Pokemon Platinum - Dawn_13
+  - first:
+      213: 7670223293728401284
+    second: DS DSi - Pokemon Platinum - Dawn_14
+  - first:
+      213: -208382801237466971
+    second: DS DSi - Pokemon Platinum - Dawn_15
+  - first:
+      213: -2433456096298371563
+    second: DS DSi - Pokemon Platinum - Dawn_16
+  - first:
+      213: 1234903013824875345
+    second: DS DSi - Pokemon Platinum - Dawn_17
+  - first:
+      213: 4992239625827836984
+    second: DS DSi - Pokemon Platinum - Dawn_18
+  - first:
+      213: -2426847155248604130
+    second: DS DSi - Pokemon Platinum - Dawn_19
+  - first:
+      213: -3987344778123693700
+    second: DS DSi - Pokemon Platinum - Dawn_20
+  - first:
+      213: -4369065769347589309
+    second: DS DSi - Pokemon Platinum - Dawn_21
+  - first:
+      213: 392200579682129387
+    second: DS DSi - Pokemon Platinum - Dawn_22
+  - first:
+      213: 526990590139184887
+    second: DS DSi - Pokemon Platinum - Dawn_23
+  - first:
+      213: -8008817012133027335
+    second: DS DSi - Pokemon Platinum - Dawn_24
+  - first:
+      213: 8051536850189897158
+    second: DS DSi - Pokemon Platinum - Dawn_25
+  - first:
+      213: -4970691057308121415
+    second: DS DSi - Pokemon Platinum - Dawn_26
+  - first:
+      213: 1349100032443382236
+    second: DS DSi - Pokemon Platinum - Dawn_27
+  - first:
+      213: -2214885218584169427
+    second: DS DSi - Pokemon Platinum - Dawn_28
+  - first:
+      213: -2078832024165419974
+    second: DS DSi - Pokemon Platinum - Dawn_29
+  - first:
+      213: 5175963115138458662
+    second: DS DSi - Pokemon Platinum - Dawn_30
+  - first:
+      213: 5841478436148606762
+    second: DS DSi - Pokemon Platinum - Dawn_31
+  - first:
+      213: -4312213989770512645
+    second: DS DSi - Pokemon Platinum - Dawn_32
+  - first:
+      213: -3581827478205925762
+    second: DS DSi - Pokemon Platinum - Dawn_33
+  - first:
+      213: -7012668613781059973
+    second: DS DSi - Pokemon Platinum - Dawn_34
+  - first:
+      213: -4369466663451069738
+    second: DS DSi - Pokemon Platinum - Dawn_35
+  - first:
+      213: 8431377811112258131
+    second: DS DSi - Pokemon Platinum - Dawn_36
+  - first:
+      213: -9084172793601826554
+    second: DS DSi - Pokemon Platinum - Dawn_37
+  - first:
+      213: -5047832248846491352
+    second: DS DSi - Pokemon Platinum - Dawn_38
+  - first:
+      213: 2517416047483354580
+    second: DS DSi - Pokemon Platinum - Dawn_39
+  - first:
+      213: -6236883940308245827
+    second: DS DSi - Pokemon Platinum - Dawn_40
+  - first:
+      213: -8834077319812550920
+    second: DS DSi - Pokemon Platinum - Dawn_41
+  - first:
+      213: -1424211865246482881
+    second: DS DSi - Pokemon Platinum - Dawn_42
+  - first:
+      213: -8250712224248287461
+    second: DS DSi - Pokemon Platinum - Dawn_43
+  - first:
+      213: 8695687348860438057
+    second: DS DSi - Pokemon Platinum - Dawn_44
+  - first:
+      213: 5081450232866762455
+    second: DS DSi - Pokemon Platinum - Dawn_45
+  - first:
+      213: 437928130709156888
+    second: DS DSi - Pokemon Platinum - Dawn_46
+  - first:
+      213: 4829511510290313185
+    second: DS DSi - Pokemon Platinum - Dawn_47
+  - first:
+      213: -7208402342281411849
+    second: DS DSi - Pokemon Platinum - Dawn_48
+  - first:
+      213: -1889167752546464080
+    second: DS DSi - Pokemon Platinum - Dawn_49
+  - first:
+      213: 4800169678532628453
+    second: DS DSi - Pokemon Platinum - Dawn_50
+  - first:
+      213: -7840660289326684019
+    second: DS DSi - Pokemon Platinum - Dawn_51
+  - first:
+      213: -8202221913102358745
+    second: DS DSi - Pokemon Platinum - Dawn_52
+  - first:
+      213: 4650287195724451829
+    second: DS DSi - Pokemon Platinum - Dawn_53
+  - first:
+      213: -2454080139521608656
+    second: DS DSi - Pokemon Platinum - Dawn_54
+  - first:
+      213: 1135587932603459038
+    second: DS DSi - Pokemon Platinum - Dawn_55
+  - first:
+      213: 8557396161660570056
+    second: DS DSi - Pokemon Platinum - Dawn_56
+  - first:
+      213: 8705980107316868697
+    second: DS DSi - Pokemon Platinum - Dawn_57
+  - first:
+      213: -1932048457274303273
+    second: DS DSi - Pokemon Platinum - Dawn_58
+  - first:
+      213: -5859055781589595151
+    second: DS DSi - Pokemon Platinum - Dawn_59
+  - first:
+      213: 465816306642144568
+    second: DS DSi - Pokemon Platinum - Dawn_60
+  - first:
+      213: -2612291722810641483
+    second: DS DSi - Pokemon Platinum - Dawn_61
+  - first:
+      213: 19916256323845272
+    second: DS DSi - Pokemon Platinum - Dawn_62
+  - first:
+      213: -653063550788535170
+    second: DS DSi - Pokemon Platinum - Dawn_63
+  - first:
+      213: 7257974101881965425
+    second: DS DSi - Pokemon Platinum - Dawn_64
+  - first:
+      213: 1314900847022515966
+    second: DS DSi - Pokemon Platinum - Dawn_65
+  - first:
+      213: -4797284882568577878
+    second: DS DSi - Pokemon Platinum - Dawn_66
+  - first:
+      213: 5854179164083513544
+    second: DS DSi - Pokemon Platinum - Dawn_67
+  - first:
+      213: -2008500539439822900
+    second: DS DSi - Pokemon Platinum - Dawn_68
+  - first:
+      213: -5712052224829072997
+    second: DS DSi - Pokemon Platinum - Dawn_69
+  - first:
+      213: -7957817583854321253
+    second: DS DSi - Pokemon Platinum - Dawn_70
+  - first:
+      213: -7225983792478828826
+    second: DS DSi - Pokemon Platinum - Dawn_71
+  - first:
+      213: 6957640303446182652
+    second: DS DSi - Pokemon Platinum - Dawn_72
+  - first:
+      213: -6256391554838170181
+    second: DS DSi - Pokemon Platinum - Dawn_73
+  - first:
+      213: 5324494348846430190
+    second: DS DSi - Pokemon Platinum - Dawn_74
+  - first:
+      213: 5666950539643626544
+    second: DS DSi - Pokemon Platinum - Dawn_75
+  - first:
+      213: -7556347178748559209
+    second: DS DSi - Pokemon Platinum - Dawn_76
+  - first:
+      213: -3673018627173875448
+    second: DS DSi - Pokemon Platinum - Dawn_77
+  - first:
+      213: -1913504208725586130
+    second: DS DSi - Pokemon Platinum - Dawn_78
+  - first:
+      213: -9171442808560459891
+    second: DS DSi - Pokemon Platinum - Dawn_79
+  - first:
+      213: 2388864474768497115
+    second: DS DSi - Pokemon Platinum - Dawn_80
+  - first:
+      213: -2464224011370581162
+    second: DS DSi - Pokemon Platinum - Dawn_81
+  - first:
+      213: 198145778124452283
+    second: DS DSi - Pokemon Platinum - Dawn_82
+  - first:
+      213: -1540784309957249899
+    second: DS DSi - Pokemon Platinum - Dawn_83
+  - first:
+      213: -607211722309386455
+    second: DS DSi - Pokemon Platinum - Dawn_84
+  - first:
+      213: -6545140329597696001
+    second: DS DSi - Pokemon Platinum - Dawn_85
+  - first:
+      213: 1388955375966944956
+    second: DS DSi - Pokemon Platinum - Dawn_86
+  - first:
+      213: -6504803293524874087
+    second: DS DSi - Pokemon Platinum - Dawn_87
+  - first:
+      213: 2048026806135823630
+    second: DS DSi - Pokemon Platinum - Dawn_88
+  - first:
+      213: 4452009739047010818
+    second: DS DSi - Pokemon Platinum - Dawn_89
+  - first:
+      213: -5734840041644960175
+    second: DS DSi - Pokemon Platinum - Dawn_90
+  - first:
+      213: 8785754276792704958
+    second: DS DSi - Pokemon Platinum - Dawn_91
+  - first:
+      213: 800878398824578593
+    second: DS DSi - Pokemon Platinum - Dawn_92
+  - first:
+      213: -4335600945090148799
+    second: DS DSi - Pokemon Platinum - Dawn_93
+  - first:
+      213: -639914845487898290
+    second: DS DSi - Pokemon Platinum - Dawn_94
+  - first:
+      213: -314221139613429707
+    second: DS DSi - Pokemon Platinum - Dawn_95
+  - first:
+      213: 7095774491530223010
+    second: DS DSi - Pokemon Platinum - Dawn_96
+  - first:
+      213: 5946320346331642558
+    second: DS DSi - Pokemon Platinum - Dawn_97
+  - first:
+      213: 8432811807386424458
+    second: DS DSi - Pokemon Platinum - Dawn_98
+  - first:
+      213: -3303401896927650414
+    second: DS DSi - Pokemon Platinum - Dawn_99
+  - first:
+      213: -8238278561948391955
+    second: DS DSi - Pokemon Platinum - Dawn_100
+  - first:
+      213: 4243181919017492096
+    second: DS DSi - Pokemon Platinum - Dawn_101
+  - first:
+      213: 8200892497720451306
+    second: DS DSi - Pokemon Platinum - Dawn_102
+  - first:
+      213: 4463251966433775564
+    second: DS DSi - Pokemon Platinum - Dawn_103
+  - first:
+      213: 989421394016584480
+    second: DS DSi - Pokemon Platinum - Dawn_104
+  - first:
+      213: 6854084710656788589
+    second: DS DSi - Pokemon Platinum - Dawn_105
+  - first:
+      213: -93472038293166600
+    second: DS DSi - Pokemon Platinum - Dawn_106
+  - first:
+      213: 9024071785247267667
+    second: DS DSi - Pokemon Platinum - Dawn_107
+  - first:
+      213: 1606519853862855400
+    second: DS DSi - Pokemon Platinum - Dawn_108
+  - first:
+      213: -5165321912876499984
+    second: DS DSi - Pokemon Platinum - Dawn_109
+  - first:
+      213: -4727695222539729661
+    second: DS DSi - Pokemon Platinum - Dawn_110
+  - first:
+      213: -2376199357363157823
+    second: DS DSi - Pokemon Platinum - Dawn_111
+  - first:
+      213: -2684167384878754700
+    second: DS DSi - Pokemon Platinum - Dawn_112
+  - first:
+      213: -5593772830817984402
+    second: DS DSi - Pokemon Platinum - Dawn_113
+  - first:
+      213: -9178373254317499343
+    second: DS DSi - Pokemon Platinum - Dawn_114
+  - first:
+      213: -8596974390250525944
+    second: DS DSi - Pokemon Platinum - Dawn_115
+  - first:
+      213: 5511308765340996654
+    second: DS DSi - Pokemon Platinum - Dawn_116
+  - first:
+      213: -5089905260587054409
+    second: DS DSi - Pokemon Platinum - Dawn_117
+  - first:
+      213: 6611197405513005551
+    second: DS DSi - Pokemon Platinum - Dawn_118
+  - first:
+      213: -862277843565698960
+    second: DS DSi - Pokemon Platinum - Dawn_119
+  - first:
+      213: 3422473293834017059
+    second: DS DSi - Pokemon Platinum - Dawn_120
+  - first:
+      213: -1601602140755867069
+    second: DS DSi - Pokemon Platinum - Dawn_121
+  - first:
+      213: 8946653917917848596
+    second: DS DSi - Pokemon Platinum - Dawn_122
+  - first:
+      213: -1654188451171768345
+    second: DS DSi - Pokemon Platinum - Dawn_123
+  - first:
+      213: 5358827815265602327
+    second: DS DSi - Pokemon Platinum - Dawn_124
+  - first:
+      213: -8166228662743315406
+    second: DS DSi - Pokemon Platinum - Dawn_125
+  - first:
+      213: 2524591910549516684
+    second: DS DSi - Pokemon Platinum - Dawn_126
+  - first:
+      213: 2999445721111810654
+    second: DS DSi - Pokemon Platinum - Dawn_127
+  - first:
+      213: 2416150552908389086
+    second: DS DSi - Pokemon Platinum - Dawn_128
+  - first:
+      213: 7142414204329772615
+    second: DS DSi - Pokemon Platinum - Dawn_129
+  - first:
+      213: 4982116975815100751
+    second: DS DSi - Pokemon Platinum - Dawn_130
+  - first:
+      213: -2013628197768906304
+    second: DS DSi - Pokemon Platinum - Dawn_131
+  - first:
+      213: -5434761791777770463
+    second: DS DSi - Pokemon Platinum - Dawn_132
+  - first:
+      213: -8876537389021233149
+    second: DS DSi - Pokemon Platinum - Dawn_133
+  - first:
+      213: 4152979556600162919
+    second: DS DSi - Pokemon Platinum - Dawn_134
+  - first:
+      213: 3508226417465208777
+    second: DS DSi - Pokemon Platinum - Dawn_135
+  - first:
+      213: -8909854868757215816
+    second: DS DSi - Pokemon Platinum - Dawn_136
+  - first:
+      213: 7466636350128815903
+    second: DS DSi - Pokemon Platinum - Dawn_137
+  - first:
+      213: 544445290644892724
+    second: DS DSi - Pokemon Platinum - Dawn_138
+  - first:
+      213: -7378654629969498979
+    second: DS DSi - Pokemon Platinum - Dawn_139
+  - first:
+      213: -39968197132717629
+    second: DS DSi - Pokemon Platinum - Dawn_140
+  - first:
+      213: -4672631713556738888
+    second: DS DSi - Pokemon Platinum - Dawn_141
+  - first:
+      213: -5191542059435478714
+    second: DS DSi - Pokemon Platinum - Dawn_142
+  - first:
+      213: -5577640637585235190
+    second: DS DSi - Pokemon Platinum - Dawn_143
+  - first:
+      213: -4444685903325656135
+    second: DS DSi - Pokemon Platinum - Dawn_144
+  - first:
+      213: -7684261054210618873
+    second: DS DSi - Pokemon Platinum - Dawn_145
+  - first:
+      213: 5457338959405638890
+    second: DS DSi - Pokemon Platinum - Dawn_146
+  - first:
+      213: -1288654428392287809
+    second: DS DSi - Pokemon Platinum - Dawn_147
+  - first:
+      213: 2605540570444590976
+    second: DS DSi - Pokemon Platinum - Dawn_148
+  - first:
+      213: 7111377949376238394
+    second: DS DSi - Pokemon Platinum - Dawn_149
+  - first:
+      213: 8995801807115433998
+    second: DS DSi - Pokemon Platinum - Dawn_150
+  - first:
+      213: -8641537199282160244
+    second: DS DSi - Pokemon Platinum - Dawn_151
+  - first:
+      213: 2198158172661412767
+    second: DS DSi - Pokemon Platinum - Dawn_152
+  - first:
+      213: 7553008576098251554
+    second: DS DSi - Pokemon Platinum - Dawn_153
+  - first:
+      213: -6540542010350875980
+    second: DS DSi - Pokemon Platinum - Dawn_154
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 397
+        width: 134
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cef68cf9a8155540800000000000000
+      internalID: 4995926480002678469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 498
+        width: 983
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89cec8cf344341890800000000000000
+      internalID: -7488302813805745000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 503
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf8890e48cc9dfc0800000000000000
+      internalID: -3469517166836412453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 500
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7de8b525a73ff180800000000000000
+      internalID: -9079477141313622660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 503
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568deb86ed8e78860800000000000000
+      internalID: 7532244943738165349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 500
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d121453c5cabffd20800000000000000
+      internalID: 3314573209316364829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 500
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e8255e0f9de9a80800000000000000
+      internalID: -8458083421492441501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_7
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 500
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86222849ad9ed310800000000000000
+      internalID: 1431755081935627914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_8
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 500
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278482d043cf51310800000000000000
+      internalID: 1375282561720797298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 500
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2b86ff6455a2220800000000000000
+      internalID: 2461873909732520680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_10
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 498
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93785ca281154b610800000000000000
+      internalID: 1636021728880985913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_11
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 498
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66875a62ce25edc80800000000000000
+      internalID: -8296102289355736986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_12
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 498
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8273de19489df9770800000000000000
+      internalID: 8619847375217571624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_13
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 498
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccc6cd9e451754b0800000000000000
+      internalID: -5451865396510012217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_14
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 498
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487ab92727b127a60800000000000000
+      internalID: 7670223293728401284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 498
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0a0f242fcab1df0800000000000000
+      internalID: -208382801237466971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_16
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 498
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51670abc290aa3ed0800000000000000
+      internalID: -2433456096298371563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_17
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 498
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b471f8fb1432110800000000000000
+      internalID: 1234903013824875345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_18
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 498
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834e81b5d7ff74540800000000000000
+      internalID: 4992239625827836984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_19
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 498
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c5d3bce5b125ed0800000000000000
+      internalID: -2426847155248604130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_20
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 498
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71bde6dc0b1aa8c0800000000000000
+      internalID: -3987344778123693700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_21
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 498
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bd7b1c4d5fd53c0800000000000000
+      internalID: -4369065769347589309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_22
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 498
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5d7a86950617500800000000000000
+      internalID: 392200579682129387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_23
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 498
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6383d462f305700800000000000000
+      internalID: 526990590139184887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 467
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1a4b82c57fad090800000000000000
+      internalID: -8008817012133027335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 466
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd498b3b1eccbf60800000000000000
+      internalID: 8051536850189897158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_26
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 467
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b640f8b1de840bb0800000000000000
+      internalID: -4970691057308121415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_27
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 466
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd97148e457f8b210800000000000000
+      internalID: 1349100032443382236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_28
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 431
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24f600f0a52341e0800000000000000
+      internalID: -2214885218584169427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_29
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 397
+        width: 34
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34f9e3c9418623e0800000000000000
+      internalID: -2078832024165419974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6242a50a707b4d740800000000000000
+      internalID: 5175963115138458662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_31
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 467
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27fdbd20b9111150800000000000000
+      internalID: 5841478436148606762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_32
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 464
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf632403930f724c0800000000000000
+      internalID: -4312213989770512645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_33
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 464
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e767dcac2eaca4ec0800000000000000
+      internalID: -3581827478205925762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_34
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 464
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b768c0cec0ffdae90800000000000000
+      internalID: -7012668613781059973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_35
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 464
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2761358398c53c0800000000000000
+      internalID: -4369466663451069738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 464
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ae476a275420570800000000000000
+      internalID: 8431377811112258131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_37
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 464
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601681769f88ee180800000000000000
+      internalID: -9084172793601826554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_38
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 464
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8216eb1705f72f9b0800000000000000
+      internalID: -5047832248846491352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_39
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 464
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddfc1eae88afe220800000000000000
+      internalID: 2517416047483354580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_40
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 464
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2a698c9132279a0800000000000000
+      internalID: -6236883940308245827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_41
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 464
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8feec3a8b7d076580800000000000000
+      internalID: -8834077319812550920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_42
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 464
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e3617bade2c3ce0800000000000000
+      internalID: -1424211865246482881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_43
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 464
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f25b932f49f7d80800000000000000
+      internalID: -8250712224248287461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_44
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 464
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9264fa272994da870800000000000000
+      internalID: 8695687348860438057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_45
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 464
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de69d96010f48640800000000000000
+      internalID: 5081450232866762455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_46
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 464
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814f11c8055d31600800000000000000
+      internalID: 437928130709156888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_47
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 464
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efa389712fd50340800000000000000
+      internalID: 4829511510290313185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_48
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 464
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2093ee24c96fb90800000000000000
+      internalID: -7208402342281411849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_49
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 464
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be485430f358c5e0800000000000000
+      internalID: -1889167752546464080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_50
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 433
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efc986e3e0ad9240800000000000000
+      internalID: 4800169678532628453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_51
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 433
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88eb2a2201603390800000000000000
+      internalID: -7840660289326684019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_52
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 433
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727eb9490aadb2e80800000000000000
+      internalID: -8202221913102358745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_53
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 433
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff04b4f093298040800000000000000
+      internalID: 4650287195724451829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_54
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 433
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03439798d1b51fdd0800000000000000
+      internalID: -2454080139521608656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_55
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 433
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5ac06453b62cf00800000000000000
+      internalID: 1135587932603459038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_56
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 433
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9c112587af1c670800000000000000
+      internalID: 8557396161660570056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_57
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 433
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9563d3608cad1d870800000000000000
+      internalID: 8705980107316868697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_58
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 397
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcd25f1a2cff25e0800000000000000
+      internalID: -1932048457274303273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_59
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 397
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb472b2fc370bea0800000000000000
+      internalID: -5859055781589595151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_60
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 397
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d4dff7679e67600800000000000000
+      internalID: 465816306642144568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_61
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 397
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3bd24c4864fbbd0800000000000000
+      internalID: -2612291722810641483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_62
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 430
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c3077cab1c64000800000000000000
+      internalID: 19916256323845272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_63
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 430
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c7e7f192adfe6f0800000000000000
+      internalID: -653063550788535170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_64
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 430
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bc8a3cdf089b460800000000000000
+      internalID: 7257974101881965425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_65
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 433
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef623ad8a577f3210800000000000000
+      internalID: 1314900847022515966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_66
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 430
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacf52001de9c6db0800000000000000
+      internalID: -4797284882568577878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_67
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 433
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8e0b6dee83e3150800000000000000
+      internalID: 5854179164083513544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_68
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 397
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7428f966f5024e0800000000000000
+      internalID: -2008500539439822900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_69
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 397
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b995598e3c6bab0b0800000000000000
+      internalID: -5712052224829072997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_70
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 397
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91810fd117209190800000000000000
+      internalID: -7957817583854321253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_71
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 397
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6c190960628bb90800000000000000
+      internalID: -7225983792478828826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_72
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 397
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfac9d92ef08e8060800000000000000
+      internalID: 6957640303446182652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_73
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 397
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5fd165705dc29a0800000000000000
+      internalID: -6256391554838170181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_74
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 397
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7f09f566764e940800000000000000
+      internalID: 5324494348846430190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_75
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 399
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034aa23bd7d05ae40800000000000000
+      internalID: 5666950539643626544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_76
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 399
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790ca23b646722790800000000000000
+      internalID: -7556347178748559209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_77
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 399
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80188e1e401d60dc0800000000000000
+      internalID: -3673018627173875448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_78
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 399
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f42b27f0ed175e0800000000000000
+      internalID: -1913504208725586130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_79
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 399
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f51f5ab5d78b080800000000000000
+      internalID: -9171442808560459891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_80
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 399
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd950234593f62120800000000000000
+      internalID: 2388864474768497115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_81
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 397
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653b44351515dcdd0800000000000000
+      internalID: -2464224011370581162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_82
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 399
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1f9de0984ffb200800000000000000
+      internalID: 198145778124452283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_83
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 398
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594b08165d80e9ae0800000000000000
+      internalID: -1540784309957249899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_84
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 398
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fbb4cd720c297f0800000000000000
+      internalID: -607211722309386455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_85
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 398
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff70f314c8dfa25a0800000000000000
+      internalID: -6545140329597696001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_86
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 398
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbef0613e8f864310800000000000000
+      internalID: 1388955375966944956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_87
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 399
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ca8a35edb4ab5a0800000000000000
+      internalID: -6504803293524874087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_88
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 397
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d143e778d0c6c10800000000000000
+      internalID: 2048026806135823630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_89
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 397
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2020a781547b8cd30800000000000000
+      internalID: 4452009739047010818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_90
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 397
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156d01add51c960b0800000000000000
+      internalID: -5734840041644960175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_91
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 399
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf191047f44de970800000000000000
+      internalID: 8785754276792704958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_92
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 399
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ef83619aa4d1b00800000000000000
+      internalID: 800878398824578593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_93
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 399
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146cd0459e9d4d3c0800000000000000
+      internalID: -4335600945090148799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_94
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 399
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41e134a6d09e17f0800000000000000
+      internalID: -639914845487898290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_95
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 399
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5305c60d989a3abf0800000000000000
+      internalID: -314221139613429707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_96
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 399
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2addfe51e41497260800000000000000
+      internalID: 7095774491530223010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_97
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 399
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba76cb99d2958250800000000000000
+      internalID: 5946320346331642558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_98
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 397
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84dcfce8ad570570800000000000000
+      internalID: 8432811807386424458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_99
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 397
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d96471a75f722d0800000000000000
+      internalID: -3303401896927650414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_100
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 397
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5a952db41cbad80800000000000000
+      internalID: -8238278561948391955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_101
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 397
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ed568597fc2ea30800000000000000
+      internalID: 4243181919017492096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 68
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae02bc7c64c6fc170800000000000000
+      internalID: 8200892497720451306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_103
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 328
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf49522408a0fd30800000000000000
+      internalID: 4463251966433775564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_104
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 328
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023c78304812bbd00800000000000000
+      internalID: 989421394016584480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_105
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 328
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d684227dab99e1f50800000000000000
+      internalID: 6854084710656788589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_106
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 328
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5aa192dabe3bef0800000000000000
+      internalID: -93472038293166600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_107
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 328
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bd9432a71fb3d70800000000000000
+      internalID: 9024071785247267667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_108
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 362
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2ab1e9b418b4610800000000000000
+      internalID: 1606519853862855400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_109
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 328
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb747856171158b0800000000000000
+      internalID: -5165321912876499984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_110
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 362
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30545365e3ad36eb0800000000000000
+      internalID: -4727695222539729661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_111
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 328
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c48bdc264b060fd0800000000000000
+      internalID: -2376199357363157823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_112
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 328
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474dc9a1cfbefbad0800000000000000
+      internalID: -2684167384878754700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_113
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 328
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60ecd85f3dee52b0800000000000000
+      internalID: -5593772830817984402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_114
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 328
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c9570872edf9080800000000000000
+      internalID: -9178373254317499343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_115
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 328
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bacfd375961b880800000000000000
+      internalID: -8596974390250525944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_116
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 328
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2495a53f1a1c7c40800000000000000
+      internalID: 5511308765340996654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_117
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 328
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba015a02260d59b0800000000000000
+      internalID: -5089905260587054409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_118
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 328
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9369f3301bfbb50800000000000000
+      internalID: 6611197405513005551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_119
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 328
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070a39caed29804f0800000000000000
+      internalID: -862277843565698960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_120
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 328
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329dc34e3511f7f20800000000000000
+      internalID: 3422473293834017059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_121
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 328
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34acdb0b657f5c9e0800000000000000
+      internalID: -1601602140755867069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_122
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 328
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414a9d14656e82c70800000000000000
+      internalID: 8946653917917848596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_123
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 331
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e76a503e542b09e0800000000000000
+      internalID: -1654188451171768345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_124
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 294
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b836571816e5a40800000000000000
+      internalID: 5358827815265602327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_125
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 294
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c429a3c4abbae80800000000000000
+      internalID: -8166228662743315406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_126
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 294
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81f02f77f6290320800000000000000
+      internalID: 2524591910549516684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_127
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 297
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e525fe9ddfb20a920800000000000000
+      internalID: 2999445721111810654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_128
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 294
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edad7f56024e78120800000000000000
+      internalID: 2416150552908389086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_129
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 294
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746c7cf60e3fe1360800000000000000
+      internalID: 7142414204329772615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_130
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 294
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4907ec3ef8042540800000000000000
+      internalID: 4982116975815100751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_131
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 294
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c93642a2d72e04e0800000000000000
+      internalID: -2013628197768906304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_132
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 294
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124783ae1f8d394b0800000000000000
+      internalID: -5434761791777770463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_133
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 294
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3008aeb464430d480800000000000000
+      internalID: -8876537389021233149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_134
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 317
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76aac9e37e852a930800000000000000
+      internalID: 4152979556600162919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_135
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 212
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfa7acd659bfa030800000000000000
+      internalID: 3508226417465208777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_136
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 130
+        width: 32
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5017b0436d95480800000000000000
+      internalID: -8909854868757215816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_137
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 130
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f72745332de9760800000000000000
+      internalID: 7466636350128815903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_138
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 130
+        width: 32
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ce5847b124e8700800000000000000
+      internalID: 544445290644892724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_139
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 130
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c606435b0c99990800000000000000
+      internalID: -7378654629969498979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_140
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 130
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1779fe221027ff0800000000000000
+      internalID: -39968197132717629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_141
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 130
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcc933963a772fb0800000000000000
+      internalID: -4672631713556738888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_142
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64139deb000f3f7b0800000000000000
+      internalID: -5191542059435478714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_143
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 130
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03e2f7446d3892b0800000000000000
+      internalID: -5577640637585235190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_144
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 11
+        width: 57
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb861a48bd4152c0800000000000000
+      internalID: -4444685903325656135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_145
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 130
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a486eb8450c5590800000000000000
+      internalID: -7684261054210618873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_146
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 11
+        width: 61
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4e54e8edc5cbb40800000000000000
+      internalID: 5457338959405638890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_147
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 130
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1917dff97cd1ee0800000000000000
+      internalID: -1288654428392287809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_148
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fe735185db82420800000000000000
+      internalID: 2605540570444590976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_149
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33dd183190b0b260800000000000000
+      internalID: 7111377949376238394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_150
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08beeee41287dc70800000000000000
+      internalID: 8995801807115433998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_151
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d767bb3b7131880800000000000000
+      internalID: -8641537199282160244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_152
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93fa91363d618e10800000000000000
+      internalID: 2198158172661412767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_153
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223b0db484da1d860800000000000000
+      internalID: 7553008576098251554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Dawn_154
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 38
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba4482e1b35b35a0800000000000000
+      internalID: -6540542010350875980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DS DSi - Pokemon Platinum - Dawn_0: 4995926480002678469
+      DS DSi - Pokemon Platinum - Dawn_1: -7488302813805745000
+      DS DSi - Pokemon Platinum - Dawn_10: 1636021728880985913
+      DS DSi - Pokemon Platinum - Dawn_100: -8238278561948391955
+      DS DSi - Pokemon Platinum - Dawn_101: 4243181919017492096
+      DS DSi - Pokemon Platinum - Dawn_102: 8200892497720451306
+      DS DSi - Pokemon Platinum - Dawn_103: 4463251966433775564
+      DS DSi - Pokemon Platinum - Dawn_104: 989421394016584480
+      DS DSi - Pokemon Platinum - Dawn_105: 6854084710656788589
+      DS DSi - Pokemon Platinum - Dawn_106: -93472038293166600
+      DS DSi - Pokemon Platinum - Dawn_107: 9024071785247267667
+      DS DSi - Pokemon Platinum - Dawn_108: 1606519853862855400
+      DS DSi - Pokemon Platinum - Dawn_109: -5165321912876499984
+      DS DSi - Pokemon Platinum - Dawn_11: -8296102289355736986
+      DS DSi - Pokemon Platinum - Dawn_110: -4727695222539729661
+      DS DSi - Pokemon Platinum - Dawn_111: -2376199357363157823
+      DS DSi - Pokemon Platinum - Dawn_112: -2684167384878754700
+      DS DSi - Pokemon Platinum - Dawn_113: -5593772830817984402
+      DS DSi - Pokemon Platinum - Dawn_114: -9178373254317499343
+      DS DSi - Pokemon Platinum - Dawn_115: -8596974390250525944
+      DS DSi - Pokemon Platinum - Dawn_116: 5511308765340996654
+      DS DSi - Pokemon Platinum - Dawn_117: -5089905260587054409
+      DS DSi - Pokemon Platinum - Dawn_118: 6611197405513005551
+      DS DSi - Pokemon Platinum - Dawn_119: -862277843565698960
+      DS DSi - Pokemon Platinum - Dawn_12: 8619847375217571624
+      DS DSi - Pokemon Platinum - Dawn_120: 3422473293834017059
+      DS DSi - Pokemon Platinum - Dawn_121: -1601602140755867069
+      DS DSi - Pokemon Platinum - Dawn_122: 8946653917917848596
+      DS DSi - Pokemon Platinum - Dawn_123: -1654188451171768345
+      DS DSi - Pokemon Platinum - Dawn_124: 5358827815265602327
+      DS DSi - Pokemon Platinum - Dawn_125: -8166228662743315406
+      DS DSi - Pokemon Platinum - Dawn_126: 2524591910549516684
+      DS DSi - Pokemon Platinum - Dawn_127: 2999445721111810654
+      DS DSi - Pokemon Platinum - Dawn_128: 2416150552908389086
+      DS DSi - Pokemon Platinum - Dawn_129: 7142414204329772615
+      DS DSi - Pokemon Platinum - Dawn_13: -5451865396510012217
+      DS DSi - Pokemon Platinum - Dawn_130: 4982116975815100751
+      DS DSi - Pokemon Platinum - Dawn_131: -2013628197768906304
+      DS DSi - Pokemon Platinum - Dawn_132: -5434761791777770463
+      DS DSi - Pokemon Platinum - Dawn_133: -8876537389021233149
+      DS DSi - Pokemon Platinum - Dawn_134: 4152979556600162919
+      DS DSi - Pokemon Platinum - Dawn_135: 3508226417465208777
+      DS DSi - Pokemon Platinum - Dawn_136: -8909854868757215816
+      DS DSi - Pokemon Platinum - Dawn_137: 7466636350128815903
+      DS DSi - Pokemon Platinum - Dawn_138: 544445290644892724
+      DS DSi - Pokemon Platinum - Dawn_139: -7378654629969498979
+      DS DSi - Pokemon Platinum - Dawn_14: 7670223293728401284
+      DS DSi - Pokemon Platinum - Dawn_140: -39968197132717629
+      DS DSi - Pokemon Platinum - Dawn_141: -4672631713556738888
+      DS DSi - Pokemon Platinum - Dawn_142: -5191542059435478714
+      DS DSi - Pokemon Platinum - Dawn_143: -5577640637585235190
+      DS DSi - Pokemon Platinum - Dawn_144: -4444685903325656135
+      DS DSi - Pokemon Platinum - Dawn_145: -7684261054210618873
+      DS DSi - Pokemon Platinum - Dawn_146: 5457338959405638890
+      DS DSi - Pokemon Platinum - Dawn_147: -1288654428392287809
+      DS DSi - Pokemon Platinum - Dawn_148: 2605540570444590976
+      DS DSi - Pokemon Platinum - Dawn_149: 7111377949376238394
+      DS DSi - Pokemon Platinum - Dawn_15: -208382801237466971
+      DS DSi - Pokemon Platinum - Dawn_150: 8995801807115433998
+      DS DSi - Pokemon Platinum - Dawn_151: -8641537199282160244
+      DS DSi - Pokemon Platinum - Dawn_152: 2198158172661412767
+      DS DSi - Pokemon Platinum - Dawn_153: 7553008576098251554
+      DS DSi - Pokemon Platinum - Dawn_154: -6540542010350875980
+      DS DSi - Pokemon Platinum - Dawn_16: -2433456096298371563
+      DS DSi - Pokemon Platinum - Dawn_17: 1234903013824875345
+      DS DSi - Pokemon Platinum - Dawn_18: 4992239625827836984
+      DS DSi - Pokemon Platinum - Dawn_19: -2426847155248604130
+      DS DSi - Pokemon Platinum - Dawn_2: -3469517166836412453
+      DS DSi - Pokemon Platinum - Dawn_20: -3987344778123693700
+      DS DSi - Pokemon Platinum - Dawn_21: -4369065769347589309
+      DS DSi - Pokemon Platinum - Dawn_22: 392200579682129387
+      DS DSi - Pokemon Platinum - Dawn_23: 526990590139184887
+      DS DSi - Pokemon Platinum - Dawn_24: -8008817012133027335
+      DS DSi - Pokemon Platinum - Dawn_25: 8051536850189897158
+      DS DSi - Pokemon Platinum - Dawn_26: -4970691057308121415
+      DS DSi - Pokemon Platinum - Dawn_27: 1349100032443382236
+      DS DSi - Pokemon Platinum - Dawn_28: -2214885218584169427
+      DS DSi - Pokemon Platinum - Dawn_29: -2078832024165419974
+      DS DSi - Pokemon Platinum - Dawn_3: -9079477141313622660
+      DS DSi - Pokemon Platinum - Dawn_30: 5175963115138458662
+      DS DSi - Pokemon Platinum - Dawn_31: 5841478436148606762
+      DS DSi - Pokemon Platinum - Dawn_32: -4312213989770512645
+      DS DSi - Pokemon Platinum - Dawn_33: -3581827478205925762
+      DS DSi - Pokemon Platinum - Dawn_34: -7012668613781059973
+      DS DSi - Pokemon Platinum - Dawn_35: -4369466663451069738
+      DS DSi - Pokemon Platinum - Dawn_36: 8431377811112258131
+      DS DSi - Pokemon Platinum - Dawn_37: -9084172793601826554
+      DS DSi - Pokemon Platinum - Dawn_38: -5047832248846491352
+      DS DSi - Pokemon Platinum - Dawn_39: 2517416047483354580
+      DS DSi - Pokemon Platinum - Dawn_4: 7532244943738165349
+      DS DSi - Pokemon Platinum - Dawn_40: -6236883940308245827
+      DS DSi - Pokemon Platinum - Dawn_41: -8834077319812550920
+      DS DSi - Pokemon Platinum - Dawn_42: -1424211865246482881
+      DS DSi - Pokemon Platinum - Dawn_43: -8250712224248287461
+      DS DSi - Pokemon Platinum - Dawn_44: 8695687348860438057
+      DS DSi - Pokemon Platinum - Dawn_45: 5081450232866762455
+      DS DSi - Pokemon Platinum - Dawn_46: 437928130709156888
+      DS DSi - Pokemon Platinum - Dawn_47: 4829511510290313185
+      DS DSi - Pokemon Platinum - Dawn_48: -7208402342281411849
+      DS DSi - Pokemon Platinum - Dawn_49: -1889167752546464080
+      DS DSi - Pokemon Platinum - Dawn_5: 3314573209316364829
+      DS DSi - Pokemon Platinum - Dawn_50: 4800169678532628453
+      DS DSi - Pokemon Platinum - Dawn_51: -7840660289326684019
+      DS DSi - Pokemon Platinum - Dawn_52: -8202221913102358745
+      DS DSi - Pokemon Platinum - Dawn_53: 4650287195724451829
+      DS DSi - Pokemon Platinum - Dawn_54: -2454080139521608656
+      DS DSi - Pokemon Platinum - Dawn_55: 1135587932603459038
+      DS DSi - Pokemon Platinum - Dawn_56: 8557396161660570056
+      DS DSi - Pokemon Platinum - Dawn_57: 8705980107316868697
+      DS DSi - Pokemon Platinum - Dawn_58: -1932048457274303273
+      DS DSi - Pokemon Platinum - Dawn_59: -5859055781589595151
+      DS DSi - Pokemon Platinum - Dawn_6: -8458083421492441501
+      DS DSi - Pokemon Platinum - Dawn_60: 465816306642144568
+      DS DSi - Pokemon Platinum - Dawn_61: -2612291722810641483
+      DS DSi - Pokemon Platinum - Dawn_62: 19916256323845272
+      DS DSi - Pokemon Platinum - Dawn_63: -653063550788535170
+      DS DSi - Pokemon Platinum - Dawn_64: 7257974101881965425
+      DS DSi - Pokemon Platinum - Dawn_65: 1314900847022515966
+      DS DSi - Pokemon Platinum - Dawn_66: -4797284882568577878
+      DS DSi - Pokemon Platinum - Dawn_67: 5854179164083513544
+      DS DSi - Pokemon Platinum - Dawn_68: -2008500539439822900
+      DS DSi - Pokemon Platinum - Dawn_69: -5712052224829072997
+      DS DSi - Pokemon Platinum - Dawn_7: 1431755081935627914
+      DS DSi - Pokemon Platinum - Dawn_70: -7957817583854321253
+      DS DSi - Pokemon Platinum - Dawn_71: -7225983792478828826
+      DS DSi - Pokemon Platinum - Dawn_72: 6957640303446182652
+      DS DSi - Pokemon Platinum - Dawn_73: -6256391554838170181
+      DS DSi - Pokemon Platinum - Dawn_74: 5324494348846430190
+      DS DSi - Pokemon Platinum - Dawn_75: 5666950539643626544
+      DS DSi - Pokemon Platinum - Dawn_76: -7556347178748559209
+      DS DSi - Pokemon Platinum - Dawn_77: -3673018627173875448
+      DS DSi - Pokemon Platinum - Dawn_78: -1913504208725586130
+      DS DSi - Pokemon Platinum - Dawn_79: -9171442808560459891
+      DS DSi - Pokemon Platinum - Dawn_8: 1375282561720797298
+      DS DSi - Pokemon Platinum - Dawn_80: 2388864474768497115
+      DS DSi - Pokemon Platinum - Dawn_81: -2464224011370581162
+      DS DSi - Pokemon Platinum - Dawn_82: 198145778124452283
+      DS DSi - Pokemon Platinum - Dawn_83: -1540784309957249899
+      DS DSi - Pokemon Platinum - Dawn_84: -607211722309386455
+      DS DSi - Pokemon Platinum - Dawn_85: -6545140329597696001
+      DS DSi - Pokemon Platinum - Dawn_86: 1388955375966944956
+      DS DSi - Pokemon Platinum - Dawn_87: -6504803293524874087
+      DS DSi - Pokemon Platinum - Dawn_88: 2048026806135823630
+      DS DSi - Pokemon Platinum - Dawn_89: 4452009739047010818
+      DS DSi - Pokemon Platinum - Dawn_9: 2461873909732520680
+      DS DSi - Pokemon Platinum - Dawn_90: -5734840041644960175
+      DS DSi - Pokemon Platinum - Dawn_91: 8785754276792704958
+      DS DSi - Pokemon Platinum - Dawn_92: 800878398824578593
+      DS DSi - Pokemon Platinum - Dawn_93: -4335600945090148799
+      DS DSi - Pokemon Platinum - Dawn_94: -639914845487898290
+      DS DSi - Pokemon Platinum - Dawn_95: -314221139613429707
+      DS DSi - Pokemon Platinum - Dawn_96: 7095774491530223010
+      DS DSi - Pokemon Platinum - Dawn_97: 5946320346331642558
+      DS DSi - Pokemon Platinum - Dawn_98: 8432811807386424458
+      DS DSi - Pokemon Platinum - Dawn_99: -3303401896927650414
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

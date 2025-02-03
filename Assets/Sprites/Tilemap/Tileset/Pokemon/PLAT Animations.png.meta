@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 4ddbbd8a7fcf5c04dacee3dd24002423
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7466444867366750625
+    second: PLAT Animations_0
+  - first:
+      213: -8486320227599439333
+    second: PLAT Animations_1
+  - first:
+      213: 8659545974420554673
+    second: PLAT Animations_2
+  - first:
+      213: 7041839311508667374
+    second: PLAT Animations_3
+  - first:
+      213: -8813489665804965273
+    second: PLAT Animations_4
+  - first:
+      213: 4603967129769622635
+    second: PLAT Animations_5
+  - first:
+      213: 3423280888374547507
+    second: PLAT Animations_6
+  - first:
+      213: 5668144115580078558
+    second: PLAT Animations_7
+  - first:
+      213: 1599565135483558440
+    second: PLAT Animations_8
+  - first:
+      213: 2506549325727999073
+    second: PLAT Animations_9
+  - first:
+      213: 2661662744232070162
+    second: PLAT Animations_10
+  - first:
+      213: 2032781289054325101
+    second: PLAT Animations_11
+  - first:
+      213: 7425400732791634877
+    second: PLAT Animations_12
+  - first:
+      213: -6882228618586443805
+    second: PLAT Animations_13
+  - first:
+      213: 5624078177679781185
+    second: PLAT Animations_14
+  - first:
+      213: -2928815853708344641
+    second: PLAT Animations_15
+  - first:
+      213: -2164375012946964862
+    second: PLAT Animations_16
+  - first:
+      213: 4909853251612617725
+    second: PLAT Animations_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PLAT Animations_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 863
+        width: 1536
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56f099b3fbd16890800000000000000
+      internalID: -7466444867366750625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAT Animations_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1536
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a29b727b88a3a80800000000000000
+      internalID: -8486320227599439333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAT Animations_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 769
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b34089fe23ec2870800000000000000
+      internalID: 8659545974420554673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAT Animations_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 769
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebfad76b83a9b160800000000000000
+      internalID: 7041839311508667374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAT Animations_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 769
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a6e1648d130b580800000000000000
+      internalID: -8813489665804965273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAT Animations_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 769
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c3e7f26b394ef30800000000000000
+      internalID: 4603967129769622635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAT Animations_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 769
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334d2f5a4dfe18f20800000000000000
+      internalID: 3423280888374547507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAT Animations_7
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 769
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed90fd0ca0b49ae40800000000000000
+      internalID: 5668144115580078558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAT Animations_8
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 769
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ad89f040cc23610800000000000000
+      internalID: 1599565135483558440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAT Animations_9
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 769
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164230cd45d09c220800000000000000
+      internalID: 2506549325727999073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAT Animations_10
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 769
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c08dde92020f420800000000000000
+      internalID: 2661662744232070162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAT Animations_11
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 769
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69c420ffc3e53c10800000000000000
+      internalID: 2032781289054325101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAT Animations_12
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 769
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb78f000a25c0760800000000000000
+      internalID: 7425400732791634877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAT Animations_13
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 769
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efa026f8896d70a0800000000000000
+      internalID: -6882228618586443805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAT Animations_14
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 769
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d21a11e4dbc0e40800000000000000
+      internalID: 5624078177679781185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAT Animations_15
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 769
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb28e23af71ca57d0800000000000000
+      internalID: -2928815853708344641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAT Animations_16
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 769
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e8090a46896f1e0800000000000000
+      internalID: -2164375012946964862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAT Animations_17
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 769
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbaaa1d48d432440800000000000000
+      internalID: 4909853251612617725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PLAT Animations_0: -7466444867366750625
+      PLAT Animations_1: -8486320227599439333
+      PLAT Animations_10: 2661662744232070162
+      PLAT Animations_11: 2032781289054325101
+      PLAT Animations_12: 7425400732791634877
+      PLAT Animations_13: -6882228618586443805
+      PLAT Animations_14: 5624078177679781185
+      PLAT Animations_15: -2928815853708344641
+      PLAT Animations_16: -2164375012946964862
+      PLAT Animations_17: 4909853251612617725
+      PLAT Animations_2: 8659545974420554673
+      PLAT Animations_3: 7041839311508667374
+      PLAT Animations_4: -8813489665804965273
+      PLAT Animations_5: 4603967129769622635
+      PLAT Animations_6: 3423280888374547507
+      PLAT Animations_7: 5668144115580078558
+      PLAT Animations_8: 1599565135483558440
+      PLAT Animations_9: 2506549325727999073
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

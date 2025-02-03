@@ -1,0 +1,3593 @@
+fileFormatVersion: 2
+guid: ed8d285c280d9294f86ad93fa8137ac2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1209317378302924779
+    second: DS DSi - Pokemon Platinum - Lucas_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 502
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5182c8d6044a73fe0800000000000000
+      internalID: -1209317378302924779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 501
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b35313a66a73fb47a2432280f6e4f52
+      internalID: 952577708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 502
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0952884fdffb434449694770bb5f1fa5
+      internalID: 1749114370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 501
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4328866cf938960468061e169d7a28e6
+      internalID: 1972188668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 504
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a29539a15a64b94d88821da3fd4912c
+      internalID: -4966102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 501
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bd55e0591b4fc42b3f5b9ce8f231eb
+      internalID: -1994798734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 504
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120e8775def1d414097fd0c1bcf59c2f
+      internalID: 1744099803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 501
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cb6c3f68e455046b26e38473024034
+      internalID: -1043298536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_8
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 501
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46591d1733294f348a96f4c65eb9cb79
+      internalID: 895077842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_9
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 501
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95aef41062f9d8541891fcb008fde465
+      internalID: -764548978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_10
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 501
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9401f4b07ddc1544bab76c43dc84ca2
+      internalID: -1523048943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_11
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 501
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd2b03efae87284b8b8e87d669f3268
+      internalID: 1353498048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_12
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 502
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb52875ee2b13b249bae4c92d7ef4b1d
+      internalID: 1847163689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_13
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 502
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30cc651f7378c444a7ebdbaa04640cc
+      internalID: -329645145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_14
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 502
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da704b8b501f5b42bac5fbf91f05d50
+      internalID: -229128614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_15
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 502
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdcf5bf2bd3c424d95b5dfab5496492
+      internalID: -1455014660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_16
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 502
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedc9bb109099534b86e51b0f8dbf69b
+      internalID: 626974487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_17
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 502
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2471798ddfa3da6459ec5cf3afdd1560
+      internalID: 1703690348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_18
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 502
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018260625bc89174e8c967a10d2ec4cf
+      internalID: -2082546125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_19
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 502
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57bc34989d4a314bb3bcece11a7e3af
+      internalID: 893250420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_20
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 501
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431f72bb228ffbc4eb4442cf1d0432e0
+      internalID: 1778917729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_21
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 502
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9556bc9bc7801488196e225fe45a03
+      internalID: -2058146705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_22
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 501
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd33a16ad6378c24ea61be638fc6bb46
+      internalID: -533008230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_23
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 502
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c067377c84dee6547bfa0ea13bb99666
+      internalID: 1642263524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 502
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb67317bde760444ae31b23ad286ac0
+      internalID: -775012142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_25
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 502
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a183383c7ab8e6d409da501ff302cc53
+      internalID: 1366536530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_26
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 502
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278c88d3465abd3409572cc1da912467
+      internalID: 984840739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 468
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce0ce2de6b605a4c800310e91a944fe
+      internalID: -1722560068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_28
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 467
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3fc55d2f8c1b849a458547d2e244c3
+      internalID: -1651970078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_29
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 468
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bf1b1b85e66e248bfb028710913fa8
+      internalID: 642315460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 467
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95b1bdeb3ae5584fa917ef07058d0ab
+      internalID: -353603659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_31
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 470
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850bd67e23496d64eb0bf314b906b9ea
+      internalID: -791583017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_32
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 468
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a87282c826a424390142c5411fba1e
+      internalID: 1420663406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_33
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 470
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621a3fc943504bc4eb3fb2f9e925b9da
+      internalID: -213782750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_34
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 468
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855fb95b77fc0d740904ba2285ecaea5
+      internalID: 2085688943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_35
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 467
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70503d155c328a44a8ecd7675ae9a12b
+      internalID: -1267436487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 467
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e92dd5d5c4fd6843a5d3c8f22e19562
+      internalID: 349913961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_37
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 467
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82624b5ccf2bc941a99f8540ceed3c9
+      internalID: 1362801856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_38
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 467
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118a19757bfcf7e4ca189f8691fe42bd
+      internalID: 1988636143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_39
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 468
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d691a59151d0c349bc425200e0d4aa7
+      internalID: -1138598855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_40
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 468
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9198d200cbe294fb7df540d03fd823
+      internalID: -1475960807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_41
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 468
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c748035b4ed9a247856367ab700ee78
+      internalID: -733950999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_42
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 468
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba069801c6a8554eb7e78644e970144
+      internalID: -341374065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_43
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 468
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79ba41e467584e419864ae91a4bab90
+      internalID: -903361325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_44
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 468
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4583713a05bc94bb8a00a74b638b32
+      internalID: -192049241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_45
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 468
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5db90d66c715734a9e7f6bb500e08ea
+      internalID: -1098910909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_46
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 468
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea088ee49657ce4d890bb4092bc3cd5
+      internalID: -2051882291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_47
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 467
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffde5e426c4dc04d8f6b6d0dc100d2d
+      internalID: 1803461301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_48
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 468
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d3373953deef1499566c2309d73331
+      internalID: -263279180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_49
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 467
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02324a347d9245b4ea27086126b7b467
+      internalID: 939249411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_50
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 468
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6950109276d4f4841aeb3b4e6b723196
+      internalID: 1677751042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_51
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 468
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7afbad09a1fbe54f808b5c0f3abaed0
+      internalID: -1295436311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_52
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 468
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d1d1a529dd5ee47a3adb47299320e7
+      internalID: 727049469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_53
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 434
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb83d4ca14f2c041b966e63a382d1b7
+      internalID: -711541567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_54
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 434
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924fd4512f5c48e40a24be82a3a3802d
+      internalID: -638593307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_55
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 434
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542d18455b3581842ab0921696d77853
+      internalID: -644294489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_56
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 435
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5826f804c9e8994397d8278d6641c01
+      internalID: 1299295768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_57
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 434
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac86fecc82157934485c7845c7d1280d
+      internalID: -1285866286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_58
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 434
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae1acd2068a2994fbc8957bfc747d18
+      internalID: 331620034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_59
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 434
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c76cce614787c747aae063d17b54ecf
+      internalID: -140536896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_60
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 434
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594c4cd6b52ccf44a90a42e1224433fb
+      internalID: 878376794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_61
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 433
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dec19ce4c013443afb5dbde11b0e31
+      internalID: -2111596397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_62
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 433
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bf21b52aface14eb74ed568fd3e849
+      internalID: -1019301182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_63
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 433
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e3bb6dfd2238f4c97383bf22dd4af7
+      internalID: 1035511337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_64
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 433
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76a0c8949ff7594e838dd81a49266cd
+      internalID: -1004194959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_65
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 434
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08293fb3af59174c93473eb2e813606
+      internalID: 1185534623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_66
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 434
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d33a9e02865404db8492b65f7f54d4
+      internalID: -1702523177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_67
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 434
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8466ea8dea3a544b4e5df8002e22d4
+      internalID: -830790538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_68
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 434
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fe251fe5e2e50478ce2753d03749f7
+      internalID: 54993058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_69
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 434
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91a7cc9fa773734f935e6201b18a3e4
+      internalID: 1758211142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_70
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 434
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c643a0d82464944b5e59deeae3f4a6
+      internalID: -537898368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_71
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 434
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736921e5fe5ca3048b31fe444a1c9881
+      internalID: 1064178008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_72
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 434
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8410e448327314143be8964de9233a12
+      internalID: 1756190610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_73
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 434
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6a64abf46cf774a9ab67520713701d
+      internalID: -623077007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_74
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 434
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5f65b14a747124b84f64a31e8c3ee2
+      internalID: -579774735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_75
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 435
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e15ca302d413a5488b3d13f19dca381
+      internalID: -1765492769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_76
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 400
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f907309862ebc4e817ed8c22e29958
+      internalID: 462798897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_77
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 400
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f294e94fa63134589b4f44f4e64ec8
+      internalID: 602426192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_78
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 400
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c030b459f2d197643a24e306b631cbd6
+      internalID: -1997935409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_79
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 401
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54092ed405566743bd2abe28b3226ef
+      internalID: -775914342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_80
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 400
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef29eac4242d3c9418ecfa37b880a96d
+      internalID: -1836882982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_81
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 400
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb627cf21c97ab489408d3344a1d27e
+      internalID: -1376385607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_82
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 400
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26f5dbbbeffe1d43a52fe106c2929ce
+      internalID: 2060246744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_83
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 400
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2906a74d0c0d59a4a8cf247f4aa7de3b
+      internalID: 1487216044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_84
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 399
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9edbb8efdabaa44840b6d13f130d33
+      internalID: -721845383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_85
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 399
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb14411a9c4c08429813718641da249
+      internalID: 2012047448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_86
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 399
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673c1e4f22689ed4aaf5eb0a0b5eec3e
+      internalID: -1059595394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_87
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 399
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7008f8cb487a74584dea49fea18799
+      internalID: 1397084372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_88
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 400
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c391f0bad94f4e84db23467681580de0
+      internalID: -950585864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_89
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 400
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce82baeb6ffd5b49a120054a123536e
+      internalID: 1946409182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_90
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 400
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ba55424669e244cb88645a2edce34a
+      internalID: -491136349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_91
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 400
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b43b8bdfa68ba478cd066ff007dd04
+      internalID: -284785517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_92
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 400
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cf4bd6f09df0f418a83c786fd4b20d
+      internalID: -1302132114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_93
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 400
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c913bbb8e68b2d34cb14caed6e318da9
+      internalID: 1870756616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_94
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 400
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9207c63bd72c8c64f82fd2b2535774f9
+      internalID: 599080238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_95
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 400
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7907c05f681ca0d43852093303abc822
+      internalID: -498051726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_96
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 400
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b370d5aafe80e7546bafd3a4e7c939e9
+      internalID: -1850651696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_97
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 400
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7bfffce3fb9a14b98986556dc7e9dc
+      internalID: 534382835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_98
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 401
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccabc4b939d34e4ea8e61ba7b49e9db
+      internalID: 710398196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_99
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 400
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c746649b0864df4b8e48da019b86ad2
+      internalID: 227223640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_100
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 400
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6619a85e884d97d43b35e55fd6cd3ea1
+      internalID: -1123975724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_101
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 400
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093a70baf6be20d4d9b1e5dbd4ef1eb7
+      internalID: 1431214619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_102
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 400
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d683b63cc7a6db4b9931bbe6d1b3bbe
+      internalID: 1519511143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_103
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 365
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75ba5d01e958b9499397229f252dfb0
+      internalID: -1420642113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_104
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 365
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4d32f838db01c4d94b73c35bd66ace
+      internalID: 1349607830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_105
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 332
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb094b7ce0a99aa4897ca38fba4cc7be
+      internalID: -265403190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_106
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 332
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04858ca60a545c740b246e7224ea0db9
+      internalID: 93595602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_107
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 332
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92e13b9fca7e72469b0009c5f61f0ad
+      internalID: -1581085774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_108
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 332
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747a1561ad6bebf47b4c4e4ef4df4da6
+      internalID: -899970819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_109
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 332
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f337c404b549224f93af02a816aa7d9
+      internalID: -158037577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_110
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 332
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2413a6fc8f1917543a16241f7a10f217
+      internalID: -1828536094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_111
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 331
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034cd7c4a28079542afe970c4b50b2f5
+      internalID: -1922843196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_112
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 331
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d718b48ac44bbb244a8dc1031f6057c8
+      internalID: -651205824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_113
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 332
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848fb762d46a4a04ca292e7597b7ad1e
+      internalID: 1829310416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_114
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 332
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b14d490c3a5af4cb2ea54327bb26b3
+      internalID: -394111927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_115
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 332
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1213e7295edf64fb9eccc597c71009
+      internalID: -178739286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_116
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 331
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1563901d1270d2544b56b6fc14a3df2a
+      internalID: -1346035047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_117
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 331
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b34ad4d070d3054287055c8ff213038
+      internalID: 2055785936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_118
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 332
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97157c3efb2d502418e5312ca502292c
+      internalID: 1287654253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_119
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 332
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5a1b0e2c6c3f8418759cc511cb0583
+      internalID: 837580347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_120
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 332
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f75253fcdadcb4b950ae619307f988
+      internalID: -1896343627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_121
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 331
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c39758d5c719d488452a9746e62330
+      internalID: 868509015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_122
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 332
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9900d7dda39f43a4d8a557570bfd8977
+      internalID: -1912278314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_123
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 332
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb1a1e4c98e7684fbb836bcb425e8c0
+      internalID: -1960287394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_124
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 298
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f0c6b6003267b4f87aa77f5149994b
+      internalID: 1372793219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_125
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 298
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ebe552e1044b148bf983470ac95c63
+      internalID: -993850214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_126
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 298
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a340d48488f830b49a0014a38a1a4d0b
+      internalID: -828310793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_127
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 298
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef63676b19e04845adfc12964a7ad8a
+      internalID: 251752177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_128
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 298
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db32ec397c0d3be4fb5465f50fb4190b
+      internalID: 257320149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_129
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 298
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d2d635954db0447b9e6c5707a2d9ee
+      internalID: 1626286075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_130
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 297
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb233bb12dd1024396eced9e708099c
+      internalID: -646975548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_131
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 297
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3011d3d43c43e7a45bdc1046fcceb089
+      internalID: 1467828834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_132
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 297
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae91876d8db45d2459323e73f93f5019
+      internalID: 1643734564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_133
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 297
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfaa6db53a966146ac9bdca604bfee1
+      internalID: -476279847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_134
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 319
+        width: 66
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f7824731c0eea4b9b6367088a413fc
+      internalID: 459482303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_135
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 215
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99790fafb6cca3641a68c0c54675586f
+      internalID: -510951569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_136
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 132
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fe09433c71ecb4d95ce6c6299957c9
+      internalID: 349355168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_137
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 132
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db864875ecd9e84d8166a9e62173fcc
+      internalID: 1147858540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_138
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 132
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3274d9bce3ecd47a7c8646d35f1cc7
+      internalID: -1207232378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_139
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 132
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64435ae91e3d2a84e8411bf1b3113ba0
+      internalID: -30214542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_140
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 132
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec8b0066defc7f45b0213602f7d9f2e
+      internalID: 219048958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_141
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12
+        width: 59
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948eeb5842cdc75498d892d9943be3a7
+      internalID: 611399053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_142
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 10
+        width: 59
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3d34cc1a1129a4bb72e0c44083559f
+      internalID: 1933135205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_143
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 12
+        width: 59
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f849a402b6dc1da4798de57e0bae7704
+      internalID: 525107875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_144
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 10
+        width: 59
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630d61ea637fbb94f9aa0303caba1fd4
+      internalID: 2114367271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_145
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 17
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26c16268d3c55d469b3179434f66878
+      internalID: 1621997708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_146
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 27
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb15e311074078d46b6f68a3f5a4e948
+      internalID: 799789102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_147
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 27
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24462a3bcbd9a2c49afc0d2877c1333f
+      internalID: -322107732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_148
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 34
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15c34e501772324e8370607aa572146
+      internalID: -859869586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_149
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ce2b2e7f323a84e899b87dbfc702b1
+      internalID: -871639253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Lucas_150
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 37
+        width: 127
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f13e0a332c9234b8d4e5386350c347
+      internalID: 767312924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 985f8c54fa81c6b478dac8bbb3ada6cb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DS DSi - Pokemon Platinum - Lucas_0: -1209317378302924779
+      DS DSi - Pokemon Platinum - Lucas_1: 952577708
+      DS DSi - Pokemon Platinum - Lucas_10: -1523048943
+      DS DSi - Pokemon Platinum - Lucas_100: -1123975724
+      DS DSi - Pokemon Platinum - Lucas_101: 1431214619
+      DS DSi - Pokemon Platinum - Lucas_102: 1519511143
+      DS DSi - Pokemon Platinum - Lucas_103: -1420642113
+      DS DSi - Pokemon Platinum - Lucas_104: 1349607830
+      DS DSi - Pokemon Platinum - Lucas_105: -265403190
+      DS DSi - Pokemon Platinum - Lucas_106: 93595602
+      DS DSi - Pokemon Platinum - Lucas_107: -1581085774
+      DS DSi - Pokemon Platinum - Lucas_108: -899970819
+      DS DSi - Pokemon Platinum - Lucas_109: -158037577
+      DS DSi - Pokemon Platinum - Lucas_11: 1353498048
+      DS DSi - Pokemon Platinum - Lucas_110: -1828536094
+      DS DSi - Pokemon Platinum - Lucas_111: -1922843196
+      DS DSi - Pokemon Platinum - Lucas_112: -651205824
+      DS DSi - Pokemon Platinum - Lucas_113: 1829310416
+      DS DSi - Pokemon Platinum - Lucas_114: -394111927
+      DS DSi - Pokemon Platinum - Lucas_115: -178739286
+      DS DSi - Pokemon Platinum - Lucas_116: -1346035047
+      DS DSi - Pokemon Platinum - Lucas_117: 2055785936
+      DS DSi - Pokemon Platinum - Lucas_118: 1287654253
+      DS DSi - Pokemon Platinum - Lucas_119: 837580347
+      DS DSi - Pokemon Platinum - Lucas_12: 1847163689
+      DS DSi - Pokemon Platinum - Lucas_120: -1896343627
+      DS DSi - Pokemon Platinum - Lucas_121: 868509015
+      DS DSi - Pokemon Platinum - Lucas_122: -1912278314
+      DS DSi - Pokemon Platinum - Lucas_123: -1960287394
+      DS DSi - Pokemon Platinum - Lucas_124: 1372793219
+      DS DSi - Pokemon Platinum - Lucas_125: -993850214
+      DS DSi - Pokemon Platinum - Lucas_126: -828310793
+      DS DSi - Pokemon Platinum - Lucas_127: 251752177
+      DS DSi - Pokemon Platinum - Lucas_128: 257320149
+      DS DSi - Pokemon Platinum - Lucas_129: 1626286075
+      DS DSi - Pokemon Platinum - Lucas_13: -329645145
+      DS DSi - Pokemon Platinum - Lucas_130: -646975548
+      DS DSi - Pokemon Platinum - Lucas_131: 1467828834
+      DS DSi - Pokemon Platinum - Lucas_132: 1643734564
+      DS DSi - Pokemon Platinum - Lucas_133: -476279847
+      DS DSi - Pokemon Platinum - Lucas_134: 459482303
+      DS DSi - Pokemon Platinum - Lucas_135: -510951569
+      DS DSi - Pokemon Platinum - Lucas_136: 349355168
+      DS DSi - Pokemon Platinum - Lucas_137: 1147858540
+      DS DSi - Pokemon Platinum - Lucas_138: -1207232378
+      DS DSi - Pokemon Platinum - Lucas_139: -30214542
+      DS DSi - Pokemon Platinum - Lucas_14: -229128614
+      DS DSi - Pokemon Platinum - Lucas_140: 219048958
+      DS DSi - Pokemon Platinum - Lucas_141: 611399053
+      DS DSi - Pokemon Platinum - Lucas_142: 1933135205
+      DS DSi - Pokemon Platinum - Lucas_143: 525107875
+      DS DSi - Pokemon Platinum - Lucas_144: 2114367271
+      DS DSi - Pokemon Platinum - Lucas_145: 1621997708
+      DS DSi - Pokemon Platinum - Lucas_146: 799789102
+      DS DSi - Pokemon Platinum - Lucas_147: -322107732
+      DS DSi - Pokemon Platinum - Lucas_148: -859869586
+      DS DSi - Pokemon Platinum - Lucas_149: -871639253
+      DS DSi - Pokemon Platinum - Lucas_15: -1455014660
+      DS DSi - Pokemon Platinum - Lucas_150: 767312924
+      DS DSi - Pokemon Platinum - Lucas_16: 626974487
+      DS DSi - Pokemon Platinum - Lucas_17: 1703690348
+      DS DSi - Pokemon Platinum - Lucas_18: -2082546125
+      DS DSi - Pokemon Platinum - Lucas_19: 893250420
+      DS DSi - Pokemon Platinum - Lucas_2: 1749114370
+      DS DSi - Pokemon Platinum - Lucas_20: 1778917729
+      DS DSi - Pokemon Platinum - Lucas_21: -2058146705
+      DS DSi - Pokemon Platinum - Lucas_22: -533008230
+      DS DSi - Pokemon Platinum - Lucas_23: 1642263524
+      DS DSi - Pokemon Platinum - Lucas_24: -775012142
+      DS DSi - Pokemon Platinum - Lucas_25: 1366536530
+      DS DSi - Pokemon Platinum - Lucas_26: 984840739
+      DS DSi - Pokemon Platinum - Lucas_27: -1722560068
+      DS DSi - Pokemon Platinum - Lucas_28: -1651970078
+      DS DSi - Pokemon Platinum - Lucas_29: 642315460
+      DS DSi - Pokemon Platinum - Lucas_3: 1972188668
+      DS DSi - Pokemon Platinum - Lucas_30: -353603659
+      DS DSi - Pokemon Platinum - Lucas_31: -791583017
+      DS DSi - Pokemon Platinum - Lucas_32: 1420663406
+      DS DSi - Pokemon Platinum - Lucas_33: -213782750
+      DS DSi - Pokemon Platinum - Lucas_34: 2085688943
+      DS DSi - Pokemon Platinum - Lucas_35: -1267436487
+      DS DSi - Pokemon Platinum - Lucas_36: 349913961
+      DS DSi - Pokemon Platinum - Lucas_37: 1362801856
+      DS DSi - Pokemon Platinum - Lucas_38: 1988636143
+      DS DSi - Pokemon Platinum - Lucas_39: -1138598855
+      DS DSi - Pokemon Platinum - Lucas_4: -4966102
+      DS DSi - Pokemon Platinum - Lucas_40: -1475960807
+      DS DSi - Pokemon Platinum - Lucas_41: -733950999
+      DS DSi - Pokemon Platinum - Lucas_42: -341374065
+      DS DSi - Pokemon Platinum - Lucas_43: -903361325
+      DS DSi - Pokemon Platinum - Lucas_44: -192049241
+      DS DSi - Pokemon Platinum - Lucas_45: -1098910909
+      DS DSi - Pokemon Platinum - Lucas_46: -2051882291
+      DS DSi - Pokemon Platinum - Lucas_47: 1803461301
+      DS DSi - Pokemon Platinum - Lucas_48: -263279180
+      DS DSi - Pokemon Platinum - Lucas_49: 939249411
+      DS DSi - Pokemon Platinum - Lucas_5: -1994798734
+      DS DSi - Pokemon Platinum - Lucas_50: 1677751042
+      DS DSi - Pokemon Platinum - Lucas_51: -1295436311
+      DS DSi - Pokemon Platinum - Lucas_52: 727049469
+      DS DSi - Pokemon Platinum - Lucas_53: -711541567
+      DS DSi - Pokemon Platinum - Lucas_54: -638593307
+      DS DSi - Pokemon Platinum - Lucas_55: -644294489
+      DS DSi - Pokemon Platinum - Lucas_56: 1299295768
+      DS DSi - Pokemon Platinum - Lucas_57: -1285866286
+      DS DSi - Pokemon Platinum - Lucas_58: 331620034
+      DS DSi - Pokemon Platinum - Lucas_59: -140536896
+      DS DSi - Pokemon Platinum - Lucas_6: 1744099803
+      DS DSi - Pokemon Platinum - Lucas_60: 878376794
+      DS DSi - Pokemon Platinum - Lucas_61: -2111596397
+      DS DSi - Pokemon Platinum - Lucas_62: -1019301182
+      DS DSi - Pokemon Platinum - Lucas_63: 1035511337
+      DS DSi - Pokemon Platinum - Lucas_64: -1004194959
+      DS DSi - Pokemon Platinum - Lucas_65: 1185534623
+      DS DSi - Pokemon Platinum - Lucas_66: -1702523177
+      DS DSi - Pokemon Platinum - Lucas_67: -830790538
+      DS DSi - Pokemon Platinum - Lucas_68: 54993058
+      DS DSi - Pokemon Platinum - Lucas_69: 1758211142
+      DS DSi - Pokemon Platinum - Lucas_7: -1043298536
+      DS DSi - Pokemon Platinum - Lucas_70: -537898368
+      DS DSi - Pokemon Platinum - Lucas_71: 1064178008
+      DS DSi - Pokemon Platinum - Lucas_72: 1756190610
+      DS DSi - Pokemon Platinum - Lucas_73: -623077007
+      DS DSi - Pokemon Platinum - Lucas_74: -579774735
+      DS DSi - Pokemon Platinum - Lucas_75: -1765492769
+      DS DSi - Pokemon Platinum - Lucas_76: 462798897
+      DS DSi - Pokemon Platinum - Lucas_77: 602426192
+      DS DSi - Pokemon Platinum - Lucas_78: -1997935409
+      DS DSi - Pokemon Platinum - Lucas_79: -775914342
+      DS DSi - Pokemon Platinum - Lucas_8: 895077842
+      DS DSi - Pokemon Platinum - Lucas_80: -1836882982
+      DS DSi - Pokemon Platinum - Lucas_81: -1376385607
+      DS DSi - Pokemon Platinum - Lucas_82: 2060246744
+      DS DSi - Pokemon Platinum - Lucas_83: 1487216044
+      DS DSi - Pokemon Platinum - Lucas_84: -721845383
+      DS DSi - Pokemon Platinum - Lucas_85: 2012047448
+      DS DSi - Pokemon Platinum - Lucas_86: -1059595394
+      DS DSi - Pokemon Platinum - Lucas_87: 1397084372
+      DS DSi - Pokemon Platinum - Lucas_88: -950585864
+      DS DSi - Pokemon Platinum - Lucas_89: 1946409182
+      DS DSi - Pokemon Platinum - Lucas_9: -764548978
+      DS DSi - Pokemon Platinum - Lucas_90: -491136349
+      DS DSi - Pokemon Platinum - Lucas_91: -284785517
+      DS DSi - Pokemon Platinum - Lucas_92: -1302132114
+      DS DSi - Pokemon Platinum - Lucas_93: 1870756616
+      DS DSi - Pokemon Platinum - Lucas_94: 599080238
+      DS DSi - Pokemon Platinum - Lucas_95: -498051726
+      DS DSi - Pokemon Platinum - Lucas_96: -1850651696
+      DS DSi - Pokemon Platinum - Lucas_97: 534382835
+      DS DSi - Pokemon Platinum - Lucas_98: 710398196
+      DS DSi - Pokemon Platinum - Lucas_99: 227223640
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
