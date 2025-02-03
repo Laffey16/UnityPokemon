@@ -2,8 +2,9 @@ using UnityEngine;
 
 public class NPC : MonoBehaviour, IInteractable
 {
+    [SerializeField] private TextAsset dialogue;
     public void Interact()
     {
-        Debug.Log("Interacting with NPC");
+        DialogueManager.Instance.StartDialogue(dialogue.name);
     }
 }
