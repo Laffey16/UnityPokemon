@@ -1,5 +1,14 @@
 ﻿title: NPC1
 tags:
+position: 0,0
 ---
-Lucas:Fuck you bitch
+// Introduction
+Lucas: Lucas: Hey there! I'm Lucas and I'm here to help you on your journey through the Sinnoh region.
+Lucas: Professor Rowan told me you'd be coming. Let's work together to complete the Pokédex!
+Lucas: If you ever need advice or just want to chat, I'm always around. Don't hesitate to ask!
+Lucas: You think I'm cool though right?
+-> Yes
+    Lucas:Oh god I didn't expect that.
+-> No
+    Lucas: Oh, okay. I'll just go cry in the corner then.
 ===

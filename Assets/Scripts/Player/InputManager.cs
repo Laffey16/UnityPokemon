@@ -20,4 +20,10 @@ public class InputManager : MonoBehaviour
     {
         if (ctx.performed) interactionHandler.Interact();
     }
+
+
+    public void TogglePause(InputAction.CallbackContext ctx)
+    {
+        if (ctx.performed) PauseManager.Instance.TogglePause();
+    }
 }

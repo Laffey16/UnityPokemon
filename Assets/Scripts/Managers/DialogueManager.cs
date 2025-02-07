@@ -21,6 +21,7 @@ public class DialogueManager : MonoBehaviour
         }
     }
 
+
     public void StartDialogue(string dialogueName)
     {
         dialogueRunner.StartDialogue(dialogueName);
