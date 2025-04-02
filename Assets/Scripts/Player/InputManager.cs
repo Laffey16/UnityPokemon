@@ -3,16 +3,15 @@ using UnityEngine.InputSystem;
 
 public class InputManager : MonoBehaviour
 {
-    private PlayerInput playerInput;
-    private PlayerGridMovement PlayerGridMovement;
     private InteractionHandler interactionHandler;
+    private PlayerGridMovement PlayerGridMovement;
+    private PlayerInput playerInput;
 
     private void Start()
     {
         playerInput = GetComponent<PlayerInput>();
         PlayerGridMovement = GetComponent<PlayerGridMovement>();
         interactionHandler = GetComponentInChildren<InteractionHandler>();
-
     }
 
 

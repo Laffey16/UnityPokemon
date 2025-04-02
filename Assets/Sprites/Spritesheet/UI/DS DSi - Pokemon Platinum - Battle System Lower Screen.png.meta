@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: 3016b205eb747db4a922a01d7362faff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -519196994674198887
+    second: DS DSi - Pokemon Platinum - Battle System Lower Screen_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2586
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9967efb85117bc8f0800000000000000
+      internalID: -519196994674198887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2588
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dfee16a2ede6e44813738c8b19f0e8
+      internalID: -1525168488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2541
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f1cba2397f18748bce34b9d2f2bee0
+      internalID: 1030065489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2536
+        width: 120
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0b4d0bd281ae84b939d911bc3659c1
+      internalID: -2115651284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2525
+        width: 146
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb4cbc1bb3b32e4b81457e0056bf49e
+      internalID: 1381620195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_5
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2506
+        width: 194
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08424cb55eb71b04ab858c2651cfaab7
+      internalID: 2069936842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2477
+        width: 194
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08954c58e8092a243bfbcc1a578c519d
+      internalID: 1180524212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_7
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2420
+        width: 129
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9b49659c0e4d446869cf44baaacfd3
+      internalID: 1528723804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_8
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2438
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492f10db9b7795d469987ac19b2b270d
+      internalID: -2064066310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2257
+        width: 123
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70f4a11b0c3f854781a7f938749ac2a
+      internalID: -1325840193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2270
+        width: 129
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -62.5, y: -44}
+        - {x: 61.5, y: -44}
+        - {x: 61.5, y: -5}
+        - {x: -62.5, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e4aa69788df8a49bf1812cadc5bdb0
+      internalID: -44571356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2126
+        width: 128
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cb7ea16ce372b4eb9c934feca61a75
+      internalID: 2108894677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2047
+        width: 210
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16abde8387124dd4f924aaec0465abe2
+      internalID: -193431818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_16
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1945
+        width: 130
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934702c39a2919e4dbe652de06a5a1cf
+      internalID: -1603734899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_17
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1952
+        width: 99
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af3bf354beb6cc4a91ac8cc772e20fa
+      internalID: 480506270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2005
+        width: 208
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c245a716323c5d4a936dab25893ef9a
+      internalID: -2067463191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1965
+        width: 208
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3526285d5b0610944b25fcfe09a57945
+      internalID: 1185722950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1918
+        width: 123
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75355b665777da4394f1fe2c717fa15
+      internalID: 1053095282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1920
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b4b4379fb0b5f4096dbf8a82018625
+      internalID: 416375907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_22
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1870
+        width: 128
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee42535fcb3b2a647ad17a2dd8fce33d
+      internalID: -146378676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_23
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1933
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfcc06f54dc5a842a9efd0fd891f2e7
+      internalID: -588287719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1874
+        width: 123
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7e361dc49989747b7c54a6a5b13dc1
+      internalID: -795368077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_25
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1875
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324723b722e256b4c860e0e0367b3f46
+      internalID: 807494826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_26
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1831
+        width: 123
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed80be8bafc40149b8cbb594d48ffdb
+      internalID: -1971186923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1841
+        width: 82
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b975c44ff05ad84d9ea5b1291144787
+      internalID: -1524911869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_28
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1630
+        width: 256
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88adb4351b9e4b4c91a44815957e714
+      internalID: -152806080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_29
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1776
+        width: 232
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6a7450694c52a4e81cbf93b25a6409
+      internalID: 495196736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_30
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1703
+        width: 232
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8318469b4d7fe5c4c8064a000ead5100
+      internalID: 1124682800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1382
+        width: 257
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15d0da5fd8ba4c4c8885873b5a9f298
+      internalID: 1646429998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_36
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1383
+        width: 258
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d661e7eef8e4c7f4ba677d0333a97562
+      internalID: 540261522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_37
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1181
+        width: 257
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b9e55696de4ed498b78bf355e5db4f
+      internalID: -1539712834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_38
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1180
+        width: 257
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448d34e3a37c74345a0da77e743b3f26
+      internalID: -1170502160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 974
+        width: 257
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246702683f364624c9ee80ea772a9e6f
+      internalID: -355224318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_40
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 972
+        width: 259
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7036e64e50341bc4fa892bfbcddcccf3
+      internalID: -374344055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_41
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 765
+        width: 257
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5883db386081fd4dbf1e33db4e3e79a
+      internalID: 1505240584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_42
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 766
+        width: 258
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e407343546e300438a893a57c2f1785
+      internalID: -1234168005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_43
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 697
+        width: 258
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880170809d1c3ff47af40b6162e0e918
+      internalID: -1149891916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_44
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 713
+        width: 207
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe3611f1da3e464f8aa18bb84875002
+      internalID: -1649611082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 647
+        width: 128
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe30cdd128ae78469d245a884af2869
+      internalID: -2081372059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_46
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 647
+        width: 128
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3237214316a82114b9085a671d91174b
+      internalID: 1091231648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_47
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 640
+        width: 126
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112d28ba022a5f64ca61337b6e9d9ed9
+      internalID: 2091910039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_48
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 649
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fdfa7b689a7d140a838dd8fe39dccc
+      internalID: -341695450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_49
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 325
+        width: 242
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dfafd342e24834bb0a1a2107b31ab3
+      internalID: -1138823150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_50
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 496
+        width: 258
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d74d3e07274e904aa24ac1a4e2a73a7
+      internalID: 526556886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_51
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 187
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95e5c4d808bdc04aa734c399f032dd1
+      internalID: 1981464328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_52
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 205
+        width: 257
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4561e54b56a63664384268d9d149a5db
+      internalID: -1104265525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_53
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 65
+        width: 257
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b362a3700178548b7e0f8a13831223
+      internalID: -1714846830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_54
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 101
+        width: 233
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af10d6b72a2d30647996184daf7c6f94
+      internalID: -1376777503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_55
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 90
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0de935d3b6305c4ca36aad971ca2e79
+      internalID: -1002739564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_56
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 90
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c93ba059fadd54daa222517b729d56
+      internalID: -807849260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_57
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 90
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cf552133eb9324299fb0d1816cb673
+      internalID: 2006461254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 70
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41acc2fd3bbfd8489ed8f4032dd7e6a
+      internalID: -1240772152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_59
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 70
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0003605178c9a4b8619d160c6f7560
+      internalID: 1938117353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_60
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 70
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f3806499a17d546b9212ea8f7cc802
+      internalID: -647109693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_61
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 31
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04746531e830bf04fbec2e858a9b2025
+      internalID: -1286886371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_62
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2225
+        width: 128
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a9a77532ad3a74e902f6d3bcc16684
+      internalID: -387646417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_63
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2255
+        width: 126
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f553edd70edbdaf40946543b574cef51
+      internalID: 18781358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_64
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2183
+        width: 125
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5904b708adb30aa458aa3872798189b0
+      internalID: 708515413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_65
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2184
+        width: 124
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47429a61c5d6e244d985c785f043a6fd
+      internalID: 1213208718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_66
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2144
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac6c7545ea2dc74fa9744ce76c32827
+      internalID: 910376504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Platinum - Battle System Lower Screen_67
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2144
+        width: 205
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89651fd3735b8e646ba0a1ecd865c838
+      internalID: 1261775612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3b541bcf6ee40954bb3e3ef56d495f87
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_0: -519196994674198887
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_1: -1525168488
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_10: 72583484
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_11: -1325840193
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_12: -44571356
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_13: 2108894677
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_14: 1292147898
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_15: -193431818
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_16: -1603734899
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_17: 480506270
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_18: -2067463191
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_19: 1185722950
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_2: 1030065489
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_20: 1053095282
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_21: 416375907
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_22: -146378676
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_23: -588287719
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_24: -795368077
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_25: 807494826
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_26: -1971186923
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_27: -1524911869
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_28: -152806080
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_29: 495196736
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_3: -2115651284
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_30: 1124682800
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_31: 884358642
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_32: 443899903
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_33: 1309130264
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_34: 778554275
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_35: 1646429998
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_36: 540261522
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_37: -1539712834
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_38: -1170502160
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_39: -355224318
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_4: 1381620195
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_40: -374344055
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_41: 1505240584
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_42: -1234168005
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_43: -1149891916
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_44: -1649611082
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_45: -2081372059
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_46: 1091231648
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_47: 2091910039
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_48: -341695450
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_49: -1138823150
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_5: 2069936842
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_50: 526556886
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_51: 1981464328
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_52: -1104265525
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_53: -1714846830
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_54: -1376777503
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_55: -1002739564
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_56: -807849260
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_57: 2006461254
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_58: -1240772152
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_59: 1938117353
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_6: 1180524212
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_60: -647109693
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_61: -1286886371
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_62: -387646417
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_63: 18781358
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_64: 708515413
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_65: 1213208718
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_66: 910376504
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_67: 1261775612
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_7: 1528723804
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_8: -2064066310
+      DS DSi - Pokemon Platinum - Battle System Lower Screen_9: -1295499775
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

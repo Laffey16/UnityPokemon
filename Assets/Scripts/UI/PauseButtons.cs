@@ -1,17 +1,19 @@
-using System;
 using UnityEngine;
-using UnityEngine.UI;
 using UnityEngine.EventSystems;
-public class PauseButtons : MonoBehaviour, ISelectHandler,IDeselectHandler
+using UnityEngine.UI;
+
+public class PauseButtons : MonoBehaviour, ISelectHandler, IDeselectHandler
 {
-    // Core components of button
-    private Button pauseButton;
-   [SerializeField] private Image pauseButtonImage;
-    private Outline outline;
+    [SerializeField] private Image pauseButtonImage;
 
     [SerializeField] private Sprite activatedSprite, deactivatedSprite;
 
-    private void Awake() 
+    private Outline outline;
+
+    // Core components of button
+    private Button pauseButton;
+
+    private void Awake()
     {
         outline = GetComponent<Outline>();
         pauseButton = GetComponent<Button>();
@@ -20,9 +22,10 @@ public class PauseButtons : MonoBehaviour, ISelectHandler,IDeselectHandler
         pauseButton.onClick.AddListener(OnPauseButtonClicked);
     }
 
-    private void OnPauseButtonClicked()
+    public void OnDeselect(BaseEventData eventData)
     {
-        Debug.Log("Pause button clicked");
+        outline.enabled = false;
+        pauseButtonImage.sprite = deactivatedSprite;
     }
 
     public void OnSelect(BaseEventData eventData)
@@ -31,9 +34,8 @@ public class PauseButtons : MonoBehaviour, ISelectHandler,IDeselectHandler
         pauseButtonImage.sprite = activatedSprite;
     }
 
-    public void OnDeselect(BaseEventData eventData)
+    private void OnPauseButtonClicked()
     {
-        outline.enabled = false;
-        pauseButtonImage.sprite = deactivatedSprite;
+        Debug.Log("Pause button clicked");
     }
 }

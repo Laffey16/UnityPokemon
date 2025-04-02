@@ -6,7 +6,6 @@ public class DialogueManager : MonoBehaviour
 {
     [SerializeField] private DialogueRunner dialogueRunner;
     public static DialogueManager Instance { get; private set; }
-    public event Action OnDialogueStart;
 
     private void Awake()
     {
@@ -20,6 +19,8 @@ public class DialogueManager : MonoBehaviour
             Destroy(gameObject);
         }
     }
+
+    public event Action OnDialogueStart;
 
 
     public void StartDialogue(string dialogueName)

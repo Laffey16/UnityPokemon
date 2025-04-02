@@ -1,17 +1,17 @@
-using System;
+using UnityEditor;
 using UnityEngine;
 using UnityEngine.UI;
 using Yarn.Unity;
 
 public class PauseManager : MonoBehaviour
 {
-    public static PauseManager Instance { get; private set; }
-
     [SerializeField] private GameObject pauseMenu;
     [SerializeField] private Button firstButton;
     [SerializeField] private DialogueRunner dialogueRunner;
 
     public bool isPaused;
+    public static PauseManager Instance { get; private set; }
+
     private void Awake()
     {
         if (Instance == null)
@@ -28,10 +28,7 @@ public class PauseManager : MonoBehaviour
 
     public void TogglePause()
     {
-        if(dialogueRunner.IsDialogueRunning)
-        {
-            return;
-        }
+        if (dialogueRunner.IsDialogueRunning) return;
         isPaused = !isPaused;
 
         if (isPaused)
@@ -39,14 +36,13 @@ public class PauseManager : MonoBehaviour
             pauseMenu.SetActive(true);
             firstButton.Select();
             Time.timeScale = 0;
-
         }
         else
         {
             pauseMenu.SetActive(false);
             Time.timeScale = 1;
-
         }
+
         Debug.Log($"Game is paused: {isPaused}");
     }
 
@@ -55,11 +51,11 @@ public class PauseManager : MonoBehaviour
     public void ExitGame()
     {
 #if UNITY_EDITOR
-        UnityEditor.EditorApplication.isPlaying = false;
+        EditorApplication.isPlaying = false;
 #else
         Application.Quit();
 #endif
     }
+
     #endregion
 }
-
