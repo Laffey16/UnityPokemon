@@ -1,15 +1,21 @@
+using System;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class BattleManager : MonoBehaviour
 {
-    [Header("UI Elements")] [SerializeField]
-    private Transform moveButtonContainer;
+    [Header("UI Elements")]
+    [SerializeField] private Transform moveButtonContainer;
 
     [SerializeField] private Button moveButton;
     private PokemonInstance enemyPokemon;
     [SerializeField] private PokemonInstance playerPokemon;
+
+
+    public event Action OnBattleStart;
+    public event Action OnBattleEnd;
+
 
 
     private void Start()
@@ -38,6 +44,20 @@ public class BattleManager : MonoBehaviour
     public void StartBattle(PokemonInstance enemyPokemon)
     {
         Debug.Log($"Player has thrown out the Pokemon known as {playerPokemon.baseData.pokemonName}!");
+        OnBattleStart?.Invoke();
+    }
+
+    public void StartBattle()
+    {
+        Debug.Log($"Player has thrown out the Pokemon known as {playerPokemon.baseData.pokemonName}!");
+        BattleUI.Instance.ToggleUI();
+        OnBattleStart?.Invoke();
+    }
+
+    public void EndBattle()
+    {
+        BattleUI.Instance.ToggleUI();
+        OnBattleEnd?.Invoke();
     }
 
     public void Attack(MoveInstance move)

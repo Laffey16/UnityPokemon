@@ -28,4 +28,9 @@ public class DialogueManager : MonoBehaviour
         dialogueRunner.StartDialogue(dialogueName);
         OnDialogueStart?.Invoke();
     }
+
+    public void StopDialogue()
+    {
+        dialogueRunner.Stop();
+    }
 }

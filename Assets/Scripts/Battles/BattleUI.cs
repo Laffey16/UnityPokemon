@@ -6,7 +6,11 @@ using UnityEngine.UI;
 
 public class BattleUI : MonoBehaviour
 {
-    [Header("Texts")] [SerializeField] private TMP_Text playerPokemonText;
+
+    [Header("UI")]
+    [SerializeField] private GameObject entireUI;
+    [Header("Texts")]
+    [SerializeField] private TMP_Text playerPokemonText;
 
     [SerializeField] private TMP_Text enemyPokemonText;
     [SerializeField] private TMP_Text playerHPText;
@@ -14,26 +18,29 @@ public class BattleUI : MonoBehaviour
     [SerializeField] private TMP_Text playerLevelText;
     [SerializeField] private TMP_Text enemyLevelText;
 
-    [Header("Output Text")] [SerializeField]
-    private TMP_Text bottomPanelText;
+    [Header("Output Text")]
+    [SerializeField] private TMP_Text bottomPanelText;
 
     [SerializeField] private TMP_Text debugText;
 
-    [Header("Speed Settings")] [SerializeField]
-    private float typeWriterSpeed = 0.05f;
+    [Header("Speed Settings")]
+    [SerializeField] private float typeWriterSpeed = 0.05f;
 
     [SerializeField] private float textPauseTime = 1f;
 
-    [Header("Sliders")] [SerializeField] private Slider playerHPSlider;
+    [Header("Sliders")]
+    [SerializeField] private Slider playerHPSlider;
 
     [SerializeField] private Slider enemyHPSlider;
     [SerializeField] private float sliderLerpSpeed;
 
-    [Header("Panels")] [SerializeField] private GameObject movesPanel;
+    [Header("Panels")]
+    [SerializeField] private GameObject movesPanel;
 
     [SerializeField] private GameObject bottomPanel;
 
-    [Header("Images")] [SerializeField] private Image playerPokemonImage;
+    [Header("Images")]
+    [SerializeField] private Image playerPokemonImage;
 
     [SerializeField] private Image enemyPokemonImage;
 
@@ -56,6 +63,11 @@ public class BattleUI : MonoBehaviour
         }
 
         if (!Debug.isDebugBuild && !Application.isEditor) debugText.gameObject.SetActive(false);
+    }
+
+    public void ToggleUI()
+    {
+        entireUI.SetActive(!entireUI.activeSelf);
     }
 
     public void InitialiseHUD()
@@ -174,15 +186,24 @@ public class BattleUI : MonoBehaviour
 
     public IEnumerator TypewriterText(string message)
     {
-        Debug.Log($"Message to typewrite is: {message}");
+
         // Clear the text before starting
         bottomPanelText.text = "";
 
-        foreach (var letter in message)
+
+        if (bottomPanelText != null)
         {
-            bottomPanelText.text += letter;
-            yield return new WaitForSeconds(typeWriterSpeed); // Speed controls how fast the text appears
+            TMP_Text tmpText = bottomPanelText;
+            tmpText.maxVisibleCharacters = 0;
+            tmpText.text = message;
+
+            for (int i = 0; i <= message.Length; i++)
+            {
+                tmpText.maxVisibleCharacters = i;
+                yield return new WaitForSeconds(typeWriterSpeed);
+            }
         }
+
 
         yield return new WaitForSeconds(textPauseTime); // Pause before clearing or moving on
     }

@@ -39,8 +39,8 @@ RectTransform:
   - {fileID: 3993040354961038369}
   m_Father: {fileID: 7144523864228976228}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -307,7 +307,7 @@ GameObject:
   - component: {fileID: 8471227386196525857}
   - component: {fileID: 2248094319439332528}
   m_Layer: 5
-  m_Name: Button (3)
+  m_Name: Run Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -414,7 +414,31 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 8471227386196525857}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: UnityEngine.InputSystem.PlayerInput, Unity.InputSystem
+        m_MethodName: SwitchCurrentActionMap
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Player
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: BattleUI, Assembly-CSharp
+        m_MethodName: ToggleUI
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &612018184888150479
 GameObject:
   m_ObjectHideFlags: 0
@@ -1730,7 +1754,7 @@ GameObject:
   - component: {fileID: 6113535668987713686}
   - component: {fileID: 6597010687936003626}
   m_Layer: 5
-  m_Name: Button
+  m_Name: Fight Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3319,7 +3343,7 @@ GameObject:
   - component: {fileID: 728940716957767732}
   - component: {fileID: 4515385301324857660}
   m_Layer: 5
-  m_Name: Button (2)
+  m_Name: 'Pokemon Button '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3500,7 +3524,7 @@ GameObject:
   - component: {fileID: 6049467213691452396}
   - component: {fileID: 2984712316664130942}
   m_Layer: 5
-  m_Name: Button (1)
+  m_Name: Bag Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

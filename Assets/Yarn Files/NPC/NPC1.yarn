@@ -1,4 +1,4 @@
-﻿title: NPC1
+title: NPC1
 tags:
 position: 0,0
 ---
@@ -10,5 +10,9 @@ Lucas: You think I'm cool though right?
 -> Yes
     Lucas:Oh god I didn't expect that.
 -> No
-    Lucas: Oh, okay. I'll just go cry in the corner then.
+    Lucas: Wait, you don't think I'm cool? I thought we were friends!
+    Lucas: I guess I need to work on my coolness factor then.
+    Lucas: For that, we're going to battle!
+    <<StartBattle YarnSpinnerCommands>>>
+    <<stop>>
 ===
