@@ -8,11 +8,32 @@ public class YarnSpinnerCommands : MonoBehaviour
 
     public UnityEvent OnStartBattle;
     [SerializeField] private BattleManager battleManager;
-    [YarnCommand("StartBattle")]
 
+    private void OnEnable()
+
+    {
+        battleManager.OnBattleEnd += OnBattleEnd;
+    }
+
+    [YarnCommand("StartBattle")]
     public void StartBattle()
     {
         OnStartBattle?.Invoke();
         battleManager.StartBattle();
+    }
+
+    private void OnDestroy()
+    {
+        battleManager.OnBattleEnd -= OnBattleEnd;
+    }
+
+    private void OnDisable()
+    {
+        battleManager.OnBattleEnd -= OnBattleEnd;
+    }
+    private void OnBattleEnd()
+    {
+        DialogueRunner dialogueRunner = FindFirstObjectByType<DialogueRunner>();
+        dialogueRunner.Stop();
     }
 }

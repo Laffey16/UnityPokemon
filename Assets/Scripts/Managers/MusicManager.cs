@@ -20,6 +20,11 @@ public class MusicManager : MonoBehaviour
         battleManager.OnBattleEnd -= StopPlayingBattleTheme;
     }
 
+    private void Start()
+    {
+        AudioManager.Instance.PlayMusic(twinLeafTown);
+    }
+
 
     private void PlayBattleTheme()
     {

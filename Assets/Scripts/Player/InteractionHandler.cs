@@ -36,6 +36,8 @@ public class InteractionHandler : MonoBehaviour
         else
         {
             rayColor = Color.red;
+            hasInteracted = false;
+
         }
     }
 

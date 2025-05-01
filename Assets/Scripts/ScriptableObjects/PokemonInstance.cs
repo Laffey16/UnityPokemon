@@ -191,7 +191,6 @@ public class PokemonInstance
     {
         if (currentMoves.Count < 4)
         {
-            Debug.Log($"{baseData.pokemonName} has learned {newMove.moveData.moveName}!");
             currentMoves.Add(newMove);
         }
         else

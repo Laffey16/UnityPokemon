@@ -2,17 +2,43 @@ title: NPC1
 tags:
 position: 0,0
 ---
-// Introduction
-Lucas: Lucas: Hey there! I'm Lucas and I'm here to help you on your journey through the Sinnoh region.
+
+<<declare $victory = false>>
+<<declare $defeat = false>>
+
+
+// Check if the player already won
+<<if $victory>>
+Lucas: Whoa, you're still riding high from our battle, huh?
+Lucas: I've gotta say, you impressed me back there. Keep it up!
+Lucas: Is this even how I talk in the anime? I don't remember.
+Lucas: I guess I should be more like Ash, huh?
+
+<<stop>>
+<<endif>>
+
+// Check if the player already won
+<<if $defeat>>
+Lucas:...well, that was unexpected.
+Lucas: Better luck next time, I guess.
+
+<<stop>>
+<<endif>>
+
+// First-time interaction
+Lucas: Hey there! I'm Lucas and I'm here to help you on your journey through the Sinnoh region.
 Lucas: Professor Rowan told me you'd be coming. Let's work together to complete the Pokédex!
 Lucas: If you ever need advice or just want to chat, I'm always around. Don't hesitate to ask!
 Lucas: You think I'm cool though right?
+
 -> Yes
-    Lucas:Oh god I didn't expect that.
+    Lucas: Oh god I didn't expect that.
 -> No
     Lucas: Wait, you don't think I'm cool? I thought we were friends!
     Lucas: I guess I need to work on my coolness factor then.
     Lucas: For that, we're going to battle!
     <<StartBattle YarnSpinnerCommands>>>
     <<stop>>
+
 ===
+

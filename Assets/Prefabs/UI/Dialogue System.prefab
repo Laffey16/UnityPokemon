@@ -71,7 +71,7 @@ MonoBehaviour:
   onPauseEnded:
     m_PersistentCalls:
       m_Calls: []
-  typewriterEffectSpeed: 120
+  typewriterEffectSpeed: 65
   continueButton: {fileID: 0}
   holdTime: 1
   autoAdvance: 0
@@ -619,8 +619,9 @@ MonoBehaviour:
   _variableStorage: {fileID: 8773376702185181885}
   dialogueViews:
   - {fileID: 1806591711086892080}
+  - {fileID: 3875583383144316212}
   startNode: NPC1
-  startAutomatically: 1
+  startAutomatically: 0
   runSelectedOptionAsLine: 0
   lineProvider: {fileID: 0}
   verboseLogging: 1

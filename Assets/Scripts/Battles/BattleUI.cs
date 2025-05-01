@@ -44,6 +44,9 @@ public class BattleUI : MonoBehaviour
 
     [SerializeField] private Image enemyPokemonImage;
 
+    [Header("Buttons")]
+    [SerializeField] private Button[] gridButtons;
+
     public static BattleUI Instance { get; private set; }
     public PokemonInstance PlayerPokemon { get; set; }
 
@@ -72,6 +75,7 @@ public class BattleUI : MonoBehaviour
 
     public void InitialiseHUD()
     {
+
         try
         {
             playerPokemonText.text = PlayerPokemon.baseData.pokemonName;
@@ -100,6 +104,8 @@ public class BattleUI : MonoBehaviour
         {
             Debug.LogError("Failed to setup Pokemon Images");
         }
+
+
     }
 
     public IEnumerator LerpPlayerHPSlider(float newHP)
@@ -107,6 +113,11 @@ public class BattleUI : MonoBehaviour
         var startHP = playerHPSlider.value;
         var elapsedTime = 0f;
         var duration = Mathf.Abs(startHP - newHP) / sliderLerpSpeed; // Adjust speed based on change
+
+        foreach (var currentButton in gridButtons)
+        {
+            currentButton.interactable = false;
+        }
 
         while (elapsedTime < duration)
         {
@@ -122,10 +133,14 @@ public class BattleUI : MonoBehaviour
             yield return null; // Wait for the next frame
         }
 
-        Debug.Log("Finished slider lerp");
         // Ensure final value is set correctly
         playerHPSlider.value = newHP;
         playerHPText.text = $"{newHP}/{playerHPSlider.maxValue}";
+
+        foreach (var currentButton in gridButtons)
+        {
+            currentButton.interactable = true;
+        }
     }
 
     public IEnumerator LerpEnemyHPSlider(float newHP)
@@ -133,6 +148,11 @@ public class BattleUI : MonoBehaviour
         var startHP = enemyHPSlider.value;
         var elapsedTime = 0f;
         var duration = Mathf.Abs(startHP - newHP) / sliderLerpSpeed; // Adjust speed based on change
+
+        foreach (var currentButton in gridButtons)
+        {
+            currentButton.interactable = false;
+        }
 
         while (elapsedTime < duration)
         {
@@ -143,12 +163,16 @@ public class BattleUI : MonoBehaviour
             yield return null; // Wait for the next frame
         }
 
-        Debug.Log("Finished slider lerp");
 
 
         // Ensure final value is set correctly
         enemyHPSlider.value = newHP;
         enemyHPText.text = $"{EnemyPokemon.currentHP}/{enemyHPSlider.maxValue}";
+        foreach (var currentButton in gridButtons)
+        {
+            currentButton.interactable = true;
+            Debug.Log("Finished slider lerp");
+        }
     }
 
     public void SetDebugText(string newDebugText)
@@ -184,29 +208,34 @@ public class BattleUI : MonoBehaviour
     }
 
 
-    public IEnumerator TypewriterText(string message)
+public IEnumerator TypewriterText(string message)
+{
+    // Clear the text before starting
+    bottomPanelText.text = "";
+
+    if (bottomPanelText != null)
     {
+        TMP_Text tmpText = bottomPanelText;
+        tmpText.text = message;
+        tmpText.maxVisibleCharacters = 0;
 
-        // Clear the text before starting
-        bottomPanelText.text = "";
+        // Force layout rebuild once at the start to prevent junk frames
+        Canvas.ForceUpdateCanvases();
+        LayoutRebuilder.ForceRebuildLayoutImmediate(tmpText.rectTransform);
 
-
-        if (bottomPanelText != null)
+        for (int i = 0; i <= message.Length; i++)
         {
-            TMP_Text tmpText = bottomPanelText;
-            tmpText.maxVisibleCharacters = 0;
-            tmpText.text = message;
+            tmpText.maxVisibleCharacters = i;
 
-            for (int i = 0; i <= message.Length; i++)
-            {
-                tmpText.maxVisibleCharacters = i;
-                yield return new WaitForSeconds(typeWriterSpeed);
-            }
+            // Force a layout update each frame
+            Canvas.ForceUpdateCanvases();
+            LayoutRebuilder.ForceRebuildLayoutImmediate(tmpText.rectTransform);
+
+            yield return new WaitForSeconds(typeWriterSpeed);
         }
-
-
-        yield return new WaitForSeconds(textPauseTime); // Pause before clearing or moving on
     }
+}
+
 
     public void CloseMovesPanel()
     {
