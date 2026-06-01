@@ -1,5 +1,7 @@
+using System;
 using UnityEditor;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.UI;
 using Yarn.Unity;
 
@@ -9,8 +11,14 @@ public class PauseManager : MonoBehaviour
     [SerializeField] private Button firstButton;
     [SerializeField] private DialogueRunner dialogueRunner;
 
+    public UnityEvent onPause;
+    public UnityEvent onUnPause;
+
+
     public bool isPaused;
     public static PauseManager Instance { get; private set; }
+
+    public event Action OnPause;
 
     private void Awake()
     {
@@ -36,11 +44,13 @@ public class PauseManager : MonoBehaviour
             pauseMenu.SetActive(true);
             firstButton.Select();
             Time.timeScale = 0;
+            onPause?.Invoke();
         }
         else
         {
             pauseMenu.SetActive(false);
             Time.timeScale = 1;
+            onUnPause?.Invoke();
         }
 
         Debug.Log($"Game is paused: {isPaused}");

@@ -149,7 +149,7 @@ public class BattleManager : MonoBehaviour
     private IEnumerator DamagePokemon(PokemonInstance attacker, PokemonInstance defender, MoveInstance move)
     {
         var effectiveness = TypeEffectivenessCalculator.CalculateEffectiveness(move.moveData, defender);
-        var damageCalculation = (move.moveData.power * attacker.attack / (float)defender.defense * effectiveness);
+        int damageCalculation = (int)(move.moveData.power * attacker.attack / (float)defender.defense * effectiveness);
 
         bool isCriticalHit = //6.25% chance of a critical hit
             UnityEngine.Random.Range(0, 100) < 6.25f;
@@ -161,7 +161,7 @@ public class BattleManager : MonoBehaviour
             damageCalculation *= 2;
         }
 
-        defender.TakeDamage((int)damageCalculation);
+        defender.TakeDamage(damageCalculation);
         BattleUI.Instance.CloseMovesPanel();
 
         BattleUI.Instance.SetBottomPanelText($"{attacker.baseData.pokemonName} used {move.moveData.moveName}!");
